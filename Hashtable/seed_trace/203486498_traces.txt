@@ -1,0 +1,350 @@
+26
+Hashtable
+10
+Hashtable hashCode
+6
+Hashtable remove
+5
+Hashtable isEmpty:FALSE
+4
+Hashtable put
+3
+Hashtable isEmpty:TRUE
+3
+Hashtable clone
+3
+Hashtable remove remove
+2
+Hashtable isEmpty:FALSE hashCode
+2
+Hashtable get put
+2
+Hashtable remove hashCode put
+2
+Hashtable hashCode remove
+1
+Hashtable clone put get clone hashCode remove hashCode hashCode clone isEmpty:FALSE get put remove isEmpty:FALSE
+1
+Hashtable remove isEmpty:TRUE get
+1
+Hashtable hashCode remove hashCode get clone put
+1
+Hashtable hashCode remove clone
+1
+Hashtable remove put get get clone
+1
+Hashtable remove isEmpty:TRUE isEmpty:TRUE remove clone put hashCode
+1
+Hashtable clone put
+1
+Hashtable hashCode isEmpty:TRUE hashCode remove hashCode hashCode get hashCode put
+1
+Hashtable get hashCode
+1
+Hashtable put hashCode get hashCode
+1
+Hashtable remove get clone get get remove get hashCode clone remove put get hashCode remove hashCode isEmpty:FALSE
+1
+Hashtable put hashCode isEmpty:FALSE remove get get hashCode get remove get hashCode clone isEmpty:TRUE get hashCode
+1
+Hashtable isEmpty:FALSE put get remove hashCode get
+1
+Hashtable isEmpty:TRUE clone get hashCode remove hashCode remove clone put remove
+1
+Hashtable get clone remove
+1
+Hashtable remove hashCode
+1
+Hashtable clone get remove put remove isEmpty:FALSE get isEmpty:FALSE get isEmpty:FALSE get get
+1
+Hashtable get remove remove put isEmpty:FALSE clone clone isEmpty:FALSE get get remove remove isEmpty:FALSE remove put get
+1
+Hashtable get put isEmpty:FALSE remove put remove get put remove
+1
+Hashtable clone clone clone remove get put remove clone remove hashCode remove hashCode get put
+1
+Hashtable remove get
+1
+Hashtable remove hashCode put clone get isEmpty:FALSE
+1
+Hashtable get clone hashCode
+1
+Hashtable hashCode put remove
+1
+Hashtable remove remove remove hashCode isEmpty:TRUE isEmpty:TRUE put clone isEmpty:FALSE remove remove
+1
+Hashtable isEmpty:TRUE clone get clone hashCode clone remove remove isEmpty:TRUE remove hashCode
+1
+Hashtable remove remove isEmpty:TRUE hashCode get
+1
+Hashtable remove isEmpty:TRUE hashCode
+1
+Hashtable hashCode put hashCode
+1
+Hashtable put get remove clone remove put put
+1
+Hashtable isEmpty:TRUE clone clone remove clone remove
+1
+Hashtable clone clone isEmpty:TRUE hashCode clone
+1
+Hashtable clone isEmpty:TRUE
+1
+Hashtable remove put remove clone
+1
+Hashtable hashCode put put
+1
+Hashtable isEmpty:TRUE clone isEmpty:TRUE clone clone
+1
+Hashtable remove put hashCode isEmpty:FALSE hashCode get remove remove
+1
+Hashtable put hashCode remove hashCode hashCode
+1
+Hashtable remove hashCode remove remove remove isEmpty:TRUE remove isEmpty:TRUE hashCode put clone clone
+1
+Hashtable put remove remove
+1
+Hashtable hashCode clone put hashCode put
+1
+Hashtable clone put remove isEmpty:TRUE clone
+1
+Hashtable isEmpty:TRUE hashCode isEmpty:TRUE hashCode isEmpty:TRUE hashCode hashCode hashCode isEmpty:TRUE get
+1
+Hashtable hashCode get remove get put clone hashCode remove remove put isEmpty:FALSE clone clone remove put put clone hashCode isEmpty:FALSE
+1
+Hashtable hashCode remove clone isEmpty:FALSE
+1
+Hashtable get clone remove remove
+1
+Hashtable remove put
+1
+Hashtable put hashCode isEmpty:FALSE
+1
+Hashtable hashCode isEmpty:TRUE get hashCode get hashCode get hashCode hashCode remove get remove clone put
+1
+Hashtable clone isEmpty:TRUE remove get put
+1
+Hashtable hashCode isEmpty:TRUE put get remove hashCode put remove remove put put
+1
+Hashtable get isEmpty:TRUE hashCode clone
+1
+Hashtable get hashCode remove put remove
+1
+Hashtable remove hashCode clone put put hashCode get hashCode hashCode put get clone clone clone remove remove get hashCode remove
+1
+Hashtable remove remove isEmpty:TRUE hashCode isEmpty:TRUE remove
+1
+Hashtable put remove get clone clone put remove
+1
+Hashtable hashCode remove put put isEmpty:FALSE put
+1
+Hashtable get clone isEmpty:FALSE remove hashCode hashCode remove hashCode remove hashCode hashCode isEmpty:TRUE
+1
+Hashtable get get hashCode isEmpty:FALSE remove isEmpty:TRUE
+1
+Hashtable isEmpty:TRUE clone isEmpty:TRUE put get get
+1
+Hashtable clone remove isEmpty:TRUE clone isEmpty:TRUE put
+1
+Hashtable isEmpty:FALSE clone clone put remove get remove hashCode put isEmpty:FALSE remove get put put
+1
+Hashtable isEmpty:TRUE put get put remove remove hashCode
+1
+Hashtable hashCode get remove get put isEmpty:FALSE
+1
+Hashtable hashCode hashCode clone get hashCode remove isEmpty:TRUE isEmpty:TRUE hashCode remove remove put get remove remove get
+1
+Hashtable get clone remove clone clone remove
+1
+Hashtable remove clone clone remove get remove clone remove put clone put isEmpty:FALSE
+1
+Hashtable get remove hashCode clone clone clone clone get get
+1
+Hashtable clone remove
+1
+Hashtable hashCode hashCode isEmpty:FALSE remove hashCode put
+1
+Hashtable get get put isEmpty:FALSE remove isEmpty:FALSE get hashCode put hashCode remove clone hashCode put isEmpty:FALSE hashCode put hashCode isEmpty:FALSE remove
+1
+Hashtable put remove put clone
+1
+Hashtable remove remove clone get clone remove clone get isEmpty:TRUE hashCode get
+1
+Hashtable hashCode hashCode clone clone get remove hashCode get remove hashCode remove
+1
+Hashtable remove put get remove clone get isEmpty:FALSE hashCode put put clone hashCode put remove isEmpty:TRUE remove isEmpty:TRUE remove hashCode clone hashCode hashCode put isEmpty:FALSE get get isEmpty:FALSE
+1
+Hashtable put remove
+1
+Hashtable isEmpty:FALSE clone clone hashCode remove hashCode put isEmpty:FALSE get get isEmpty:FALSE isEmpty:FALSE
+1
+Hashtable clone clone remove remove get
+1
+Hashtable hashCode put
+1
+Hashtable remove clone clone hashCode isEmpty:FALSE clone get clone hashCode clone
+1
+Hashtable get put isEmpty:FALSE remove isEmpty:TRUE get
+1
+Hashtable remove hashCode get
+1
+Hashtable isEmpty:TRUE put put hashCode get hashCode
+1
+Hashtable remove get put put remove put isEmpty:FALSE clone isEmpty:FALSE isEmpty:FALSE remove
+1
+Hashtable remove clone
+1
+Hashtable put remove isEmpty:TRUE remove remove hashCode isEmpty:TRUE remove
+1
+Hashtable isEmpty:TRUE hashCode
+1
+Hashtable remove get get isEmpty:TRUE
+1
+Hashtable get remove remove hashCode
+1
+Hashtable isEmpty:FALSE clone isEmpty:FALSE clone
+1
+Hashtable remove get get remove clone clone remove
+1
+Hashtable hashCode get put remove isEmpty:TRUE clone remove remove clone hashCode hashCode
+1
+Hashtable clone clone hashCode get remove
+1
+Hashtable clone remove hashCode
+1
+Hashtable clone remove clone get hashCode get isEmpty:TRUE get put hashCode
+1
+Hashtable remove get get put remove remove clone isEmpty:TRUE put remove get isEmpty:FALSE get remove
+1
+Hashtable hashCode hashCode remove
+1
+Hashtable get isEmpty:FALSE put isEmpty:FALSE get clone remove clone get put put clone
+1
+Hashtable put isEmpty:FALSE isEmpty:FALSE isEmpty:FALSE put remove
+1
+Hashtable get isEmpty:FALSE isEmpty:FALSE remove isEmpty:TRUE hashCode
+1
+Hashtable isEmpty:TRUE remove get hashCode get
+1
+Hashtable put remove clone put clone get
+1
+Hashtable get
+1
+Hashtable isEmpty:TRUE hashCode get isEmpty:TRUE hashCode hashCode
+1
+Hashtable put clone hashCode
+1
+Hashtable isEmpty:TRUE get get clone
+1
+Hashtable get isEmpty:FALSE remove put hashCode remove put clone put isEmpty:FALSE remove
+1
+Hashtable clone clone put put put clone
+1
+Hashtable clone put remove get isEmpty:TRUE hashCode
+1
+Hashtable remove isEmpty:TRUE hashCode remove clone remove put
+1
+Hashtable put remove hashCode
+1
+Hashtable hashCode get clone isEmpty:FALSE clone
+1
+Hashtable get hashCode clone clone isEmpty:TRUE clone get clone hashCode clone put remove get remove get
+1
+Hashtable clone get put
+1
+Hashtable get hashCode isEmpty:FALSE hashCode put isEmpty:FALSE isEmpty:FALSE remove isEmpty:TRUE put remove hashCode isEmpty:FALSE put remove put clone clone get put clone clone clone get get get remove remove hashCode isEmpty:TRUE isEmpty:TRUE isEmpty:TRUE isEmpty:TRUE hashCode
+1
+Hashtable get put remove isEmpty:TRUE isEmpty:TRUE remove clone
+1
+Hashtable get remove hashCode clone put put isEmpty:FALSE remove
+1
+Hashtable clone get clone remove isEmpty:TRUE remove clone clone
+1
+Hashtable remove clone remove clone clone clone get put
+1
+Hashtable clone get remove isEmpty:FALSE get hashCode
+1
+Hashtable clone hashCode remove isEmpty:TRUE hashCode hashCode remove get get isEmpty:TRUE get hashCode remove isEmpty:TRUE put remove isEmpty:FALSE hashCode clone get remove isEmpty:TRUE put put put put isEmpty:FALSE clone isEmpty:FALSE isEmpty:FALSE isEmpty:FALSE clone
+1
+Hashtable put get remove remove get get hashCode get isEmpty:TRUE clone clone get put hashCode put put remove clone put hashCode hashCode hashCode remove remove isEmpty:TRUE isEmpty:TRUE isEmpty:TRUE clone isEmpty:TRUE
+1
+Hashtable hashCode hashCode put clone isEmpty:FALSE get remove isEmpty:FALSE remove clone remove isEmpty:FALSE get isEmpty:FALSE put remove isEmpty:FALSE
+1
+Hashtable get clone
+1
+Hashtable get remove put clone remove isEmpty:TRUE clone hashCode clone get get hashCode clone put get remove get put put remove
+1
+Hashtable remove get get
+1
+Hashtable isEmpty:TRUE remove get hashCode put remove
+1
+Hashtable put get clone isEmpty:FALSE
+1
+Hashtable clone clone remove put remove get hashCode clone isEmpty:TRUE clone isEmpty:TRUE remove remove hashCode clone put isEmpty:FALSE hashCode hashCode get remove get hashCode
+1
+Hashtable isEmpty:FALSE get hashCode isEmpty:FALSE put clone remove isEmpty:TRUE hashCode clone hashCode remove
+1
+Hashtable put remove remove hashCode remove
+1
+Hashtable put hashCode put get clone clone remove put remove remove isEmpty:TRUE
+1
+Hashtable remove isEmpty:FALSE
+1
+Hashtable remove isEmpty:FALSE isEmpty:FALSE hashCode remove clone isEmpty:TRUE get put remove get get isEmpty:TRUE hashCode hashCode clone clone
+1
+Hashtable isEmpty:TRUE isEmpty:TRUE put
+1
+Hashtable clone remove clone get clone remove
+1
+Hashtable clone hashCode clone hashCode hashCode get put
+1
+Hashtable remove hashCode clone clone hashCode put isEmpty:FALSE clone isEmpty:FALSE remove get isEmpty:TRUE
+1
+Hashtable remove get get isEmpty:TRUE clone put isEmpty:FALSE get hashCode get clone clone isEmpty:FALSE get isEmpty:FALSE remove put put remove remove put remove hashCode hashCode put hashCode isEmpty:FALSE clone hashCode clone isEmpty:FALSE
+1
+Hashtable isEmpty:FALSE isEmpty:FALSE
+1
+Hashtable isEmpty:TRUE put isEmpty:FALSE remove remove
+1
+Hashtable hashCode get
+1
+Hashtable put remove isEmpty:FALSE put hashCode hashCode
+1
+Hashtable put remove put clone isEmpty:FALSE remove put
+1
+Hashtable isEmpty:FALSE put hashCode
+1
+Hashtable hashCode hashCode get clone remove
+1
+Hashtable put clone clone isEmpty:FALSE
+1
+Hashtable remove hashCode put put remove hashCode remove put isEmpty:FALSE put isEmpty:FALSE put get
+1
+Hashtable put put get get clone hashCode
+1
+Hashtable put hashCode
+1
+Hashtable remove clone isEmpty:TRUE get isEmpty:TRUE hashCode isEmpty:TRUE put hashCode remove
+1
+Hashtable hashCode remove get remove put remove
+1
+Hashtable isEmpty:FALSE remove remove hashCode remove get
+1
+Hashtable remove remove isEmpty:TRUE get
+1
+Hashtable isEmpty:FALSE hashCode remove
+1
+Hashtable remove remove get isEmpty:FALSE remove
+1
+Hashtable remove put put
+1
+Hashtable remove isEmpty:FALSE hashCode put put clone put put clone put clone
+1
+Hashtable remove isEmpty:TRUE hashCode put isEmpty:FALSE get remove isEmpty:TRUE
+1
+Hashtable remove put hashCode get hashCode isEmpty:FALSE remove put clone get isEmpty:FALSE remove clone put clone get remove get remove get isEmpty:FALSE hashCode clone put isEmpty:FALSE isEmpty:FALSE hashCode hashCode
+1
+Hashtable get isEmpty:TRUE isEmpty:TRUE get remove hashCode put remove get isEmpty:TRUE clone clone put get
+1
+Hashtable hashCode remove put put get clone remove hashCode hashCode put isEmpty:FALSE get clone hashCode put remove remove clone put isEmpty:FALSE isEmpty:FALSE
+1
+Hashtable hashCode get remove put

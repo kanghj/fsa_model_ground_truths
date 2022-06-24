@@ -1,0 +1,180 @@
+85
+Stack
+24
+Stack empty:TRUE
+19
+Stack push
+9
+Stack empty:TRUE empty:TRUE
+6
+Stack empty:TRUE empty:TRUE empty:TRUE
+5
+Stack push pop
+5
+Stack push peek
+3
+Stack push empty:FALSE
+3
+Stack push pop empty:TRUE empty:TRUE
+3
+Stack empty:TRUE empty:TRUE empty:TRUE empty:TRUE empty:TRUE
+3
+Stack push peek empty:FALSE
+3
+Stack empty:TRUE push
+3
+Stack push peek peek
+3
+Stack push pop empty:TRUE
+3
+Stack empty:TRUE empty:TRUE push
+2
+Stack push push empty:FALSE empty:FALSE
+2
+Stack empty:TRUE push push push
+2
+Stack empty:TRUE push peek
+2
+Stack push empty:FALSE peek
+2
+Stack push empty:FALSE push
+2
+Stack empty:TRUE push pop
+1
+Stack empty:TRUE empty:TRUE empty:TRUE empty:TRUE
+1
+Stack empty:TRUE push empty:FALSE empty:FALSE pop push peek push push peek pop
+1
+Stack push push peek peek
+1
+Stack empty:TRUE push empty:FALSE push peek
+1
+Stack empty:TRUE empty:TRUE push empty:FALSE empty:FALSE pop push pop empty:TRUE
+1
+Stack empty:TRUE push push peek push pop peek pop push pop peek empty:FALSE push pop pop empty:TRUE
+1
+Stack empty:TRUE empty:TRUE empty:TRUE push
+1
+Stack push push empty:FALSE empty:FALSE push empty:FALSE empty:FALSE pop
+1
+Stack push empty:FALSE push peek
+1
+Stack push push empty:FALSE push peek empty:FALSE
+1
+Stack push empty:FALSE peek pop empty:TRUE empty:TRUE
+1
+Stack push empty:FALSE push empty:FALSE pop pop
+1
+Stack push peek empty:FALSE peek empty:FALSE
+1
+Stack push empty:FALSE peek pop push empty:FALSE empty:FALSE peek peek peek
+1
+Stack push pop push push pop push pop peek pop push pop
+1
+Stack push push pop empty:FALSE peek
+1
+Stack empty:TRUE push empty:FALSE push empty:FALSE pop push push pop empty:FALSE empty:FALSE
+1
+Stack push push push empty:FALSE empty:FALSE empty:FALSE peek peek empty:FALSE pop empty:FALSE
+1
+Stack empty:TRUE empty:TRUE empty:TRUE push push pop peek push peek peek empty:FALSE peek pop push pop push empty:FALSE peek pop
+1
+Stack push peek peek empty:FALSE empty:FALSE
+1
+Stack empty:TRUE push push pop
+1
+Stack empty:TRUE empty:TRUE empty:TRUE push push pop
+1
+Stack push peek empty:FALSE empty:FALSE pop push peek push push pop
+1
+Stack empty:TRUE empty:TRUE push empty:FALSE empty:FALSE peek
+1
+Stack empty:TRUE push peek peek pop
+1
+Stack empty:TRUE empty:TRUE push push push peek empty:FALSE
+1
+Stack push push push peek peek peek empty:FALSE
+1
+Stack push pop empty:TRUE empty:TRUE empty:TRUE
+1
+Stack empty:TRUE push push push pop push empty:FALSE
+1
+Stack empty:TRUE push empty:FALSE push peek pop empty:FALSE peek push peek
+1
+Stack empty:TRUE push push push empty:FALSE pop peek
+1
+Stack push pop push pop
+1
+Stack empty:TRUE push pop empty:TRUE empty:TRUE empty:TRUE push
+1
+Stack empty:TRUE push pop push peek peek
+1
+Stack empty:TRUE empty:TRUE push pop
+1
+Stack push peek pop empty:TRUE push
+1
+Stack push peek push push empty:FALSE empty:FALSE peek peek peek pop
+1
+Stack push push push peek
+1
+Stack push push pop push push empty:FALSE empty:FALSE peek
+1
+Stack push empty:FALSE push empty:FALSE
+1
+Stack empty:TRUE push pop empty:TRUE push push pop empty:FALSE peek peek
+1
+Stack push peek empty:FALSE empty:FALSE push
+1
+Stack push empty:FALSE peek empty:FALSE pop push push pop
+1
+Stack push empty:FALSE empty:FALSE
+1
+Stack push empty:FALSE pop
+1
+Stack empty:TRUE empty:TRUE empty:TRUE empty:TRUE push empty:FALSE pop
+1
+Stack push empty:FALSE empty:FALSE push push empty:FALSE peek peek
+1
+Stack empty:TRUE push empty:FALSE peek pop empty:TRUE push peek push peek pop peek peek push empty:FALSE push pop pop
+1
+Stack empty:TRUE empty:TRUE push peek pop empty:TRUE
+1
+Stack push peek push empty:FALSE peek
+1
+Stack empty:TRUE empty:TRUE empty:TRUE empty:TRUE empty:TRUE push empty:FALSE push
+1
+Stack empty:TRUE push pop empty:TRUE push peek pop push
+1
+Stack push empty:FALSE push push pop empty:FALSE pop pop empty:TRUE empty:TRUE empty:TRUE empty:TRUE
+1
+Stack empty:TRUE push pop empty:TRUE
+1
+Stack empty:TRUE empty:TRUE push peek
+1
+Stack empty:TRUE push pop push pop
+1
+Stack empty:TRUE push empty:FALSE peek pop push peek pop
+1
+Stack push empty:FALSE pop empty:TRUE
+1
+Stack push push pop pop push push peek push pop empty:FALSE empty:FALSE
+1
+Stack push push empty:FALSE peek push peek peek empty:FALSE empty:FALSE pop pop push peek push empty:FALSE
+1
+Stack empty:TRUE push empty:FALSE
+1
+Stack push peek pop
+1
+Stack push empty:FALSE push push empty:FALSE pop empty:FALSE push
+1
+Stack push pop push empty:FALSE push push
+1
+Stack empty:TRUE push push peek
+1
+Stack push empty:FALSE push push peek empty:FALSE pop pop peek push pop peek empty:FALSE pop empty:TRUE
+1
+Stack push peek peek peek peek peek push pop push push pop empty:FALSE push pop empty:FALSE pop empty:FALSE pop empty:TRUE
+1
+Stack push push peek peek peek pop pop empty:TRUE push push
+1
+Stack push peek push empty:FALSE pop pop empty:TRUE empty:TRUE empty:TRUE push

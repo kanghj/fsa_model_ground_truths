@@ -1,0 +1,460 @@
+40
+HashSet
+6
+HashSet size
+3
+HashSet contains:FALSE
+3
+HashSet add:FALSE
+3
+HashSet iterator
+2
+HashSet remove:FALSE contains:FALSE
+2
+HashSet remove:FALSE add:TRUE
+2
+HashSet add:TRUE remove:FALSE
+1
+HashSet contains:FALSE isEmpty:TRUE size
+1
+HashSet remove:FALSE contains:FALSE remove:TRUE add:TRUE remove:FALSE contains:TRUE remove:TRUE contains:FALSE remove:TRUE add:TRUE
+1
+HashSet add:TRUE remove:FALSE size add:TRUE remove:FALSE add:FALSE add:TRUE add:TRUE add:FALSE add:TRUE contains:TRUE contains:FALSE remove:FALSE size contains:TRUE remove:FALSE remove:TRUE remove:TRUE remove:FALSE size contains:FALSE iterator contains:FALSE size iterator
+1
+HashSet add:TRUE size size isEmpty:FALSE remove:FALSE contains:FALSE add:TRUE remove:FALSE contains:FALSE remove:TRUE
+1
+HashSet size isEmpty:FALSE contains:FALSE isEmpty:FALSE remove:TRUE size size contains:FALSE remove:FALSE contains:FALSE remove:FALSE size size isEmpty:TRUE add:TRUE contains:TRUE iterator remove:FALSE iterator remove:FALSE add:FALSE iterator contains:FALSE remove:FALSE iterator add:TRUE contains:FALSE contains:TRUE add:TRUE remove:TRUE iterator contains:TRUE remove:TRUE add:TRUE add:TRUE add:FALSE remove:TRUE isEmpty:TRUE isEmpty:TRUE isEmpty:TRUE
+1
+HashSet add:TRUE remove:TRUE size add:TRUE add:TRUE contains:TRUE contains:FALSE isEmpty:FALSE contains:TRUE add:TRUE
+1
+HashSet remove:FALSE remove:FALSE size iterator contains:FALSE iterator
+1
+HashSet size remove:TRUE add:FALSE add:TRUE size contains:FALSE remove:TRUE add:TRUE remove:TRUE contains:TRUE add:TRUE remove:TRUE
+1
+HashSet size isEmpty:TRUE remove:FALSE contains:FALSE remove:FALSE isEmpty:TRUE isEmpty:TRUE add:TRUE add:TRUE remove:TRUE add:TRUE remove:TRUE add:TRUE remove:FALSE add:TRUE
+1
+HashSet size remove:FALSE isEmpty:TRUE iterator iterator size
+1
+HashSet remove:FALSE remove:FALSE contains:TRUE contains:FALSE isEmpty:FALSE remove:TRUE iterator contains:FALSE contains:FALSE iterator iterator iterator contains:FALSE iterator size size isEmpty:TRUE
+1
+HashSet size iterator size iterator add:TRUE remove:FALSE size iterator iterator iterator isEmpty:FALSE size remove:FALSE contains:TRUE remove:FALSE contains:TRUE contains:TRUE contains:TRUE remove:TRUE add:TRUE
+1
+HashSet remove:FALSE remove:FALSE contains:TRUE remove:TRUE add:TRUE add:TRUE add:FALSE
+1
+HashSet isEmpty:FALSE remove:FALSE iterator add:FALSE iterator isEmpty:FALSE contains:FALSE remove:FALSE remove:FALSE contains:FALSE add:FALSE remove:TRUE iterator add:TRUE
+1
+HashSet size contains:FALSE iterator size isEmpty:FALSE contains:FALSE iterator remove:TRUE size size iterator iterator contains:FALSE add:TRUE iterator add:TRUE isEmpty:FALSE add:TRUE contains:FALSE contains:FALSE remove:TRUE remove:FALSE add:TRUE remove:TRUE
+1
+HashSet iterator remove:FALSE add:FALSE add:FALSE add:FALSE remove:TRUE contains:FALSE
+1
+HashSet contains:FALSE iterator size remove:TRUE size contains:FALSE iterator add:TRUE isEmpty:FALSE iterator remove:TRUE size remove:FALSE add:TRUE
+1
+HashSet remove:TRUE size isEmpty:TRUE remove:FALSE isEmpty:TRUE add:TRUE remove:TRUE iterator iterator iterator contains:FALSE contains:FALSE iterator
+1
+HashSet remove:FALSE iterator size remove:FALSE add:TRUE contains:FALSE
+1
+HashSet contains:FALSE add:TRUE add:TRUE isEmpty:FALSE add:TRUE contains:FALSE add:TRUE
+1
+HashSet size add:TRUE size iterator add:TRUE remove:TRUE size isEmpty:FALSE add:TRUE contains:TRUE add:TRUE remove:FALSE
+1
+HashSet size add:TRUE add:FALSE contains:FALSE contains:TRUE remove:TRUE add:TRUE
+1
+HashSet contains:TRUE remove:FALSE
+1
+HashSet remove:FALSE remove:FALSE size
+1
+HashSet size remove:FALSE remove:FALSE remove:TRUE
+1
+HashSet contains:TRUE contains:TRUE
+1
+HashSet size add:TRUE add:FALSE remove:TRUE size iterator contains:FALSE isEmpty:TRUE remove:FALSE add:TRUE remove:TRUE iterator contains:TRUE size size add:TRUE remove:TRUE
+1
+HashSet remove:FALSE size iterator isEmpty:TRUE contains:FALSE iterator
+1
+HashSet size contains:FALSE
+1
+HashSet size remove:TRUE iterator iterator contains:FALSE
+1
+HashSet iterator remove:TRUE size add:TRUE add:FALSE add:TRUE contains:FALSE remove:TRUE add:FALSE remove:TRUE contains:TRUE contains:TRUE isEmpty:FALSE add:FALSE contains:TRUE remove:TRUE remove:TRUE size size size
+1
+HashSet add:TRUE remove:FALSE remove:TRUE add:TRUE remove:TRUE iterator contains:FALSE isEmpty:TRUE size iterator iterator isEmpty:TRUE contains:FALSE isEmpty:TRUE isEmpty:TRUE iterator add:TRUE contains:FALSE contains:TRUE iterator add:FALSE
+1
+HashSet add:TRUE
+1
+HashSet isEmpty:FALSE isEmpty:FALSE contains:FALSE add:TRUE add:FALSE add:FALSE isEmpty:FALSE isEmpty:FALSE
+1
+HashSet iterator iterator remove:FALSE remove:FALSE remove:FALSE remove:FALSE
+1
+HashSet remove:FALSE contains:FALSE add:TRUE
+1
+HashSet add:TRUE add:FALSE
+1
+HashSet size isEmpty:TRUE isEmpty:TRUE contains:FALSE remove:FALSE remove:FALSE isEmpty:TRUE isEmpty:TRUE add:TRUE remove:TRUE contains:FALSE remove:FALSE add:TRUE size remove:TRUE add:TRUE iterator size isEmpty:FALSE iterator
+1
+HashSet remove:TRUE contains:FALSE add:TRUE iterator remove:FALSE remove:TRUE size isEmpty:TRUE size iterator add:TRUE remove:TRUE size isEmpty:FALSE remove:FALSE size contains:TRUE add:TRUE add:FALSE remove:FALSE contains:FALSE add:TRUE contains:FALSE add:TRUE isEmpty:FALSE
+1
+HashSet remove:TRUE remove:FALSE add:FALSE remove:FALSE iterator size add:FALSE add:FALSE remove:TRUE iterator remove:FALSE isEmpty:TRUE add:TRUE size iterator remove:TRUE contains:TRUE remove:TRUE add:TRUE remove:FALSE
+1
+HashSet add:TRUE size size
+1
+HashSet contains:TRUE remove:TRUE remove:TRUE size iterator contains:FALSE size add:TRUE add:TRUE iterator size add:FALSE iterator contains:TRUE isEmpty:FALSE size remove:TRUE iterator
+1
+HashSet add:TRUE contains:TRUE add:TRUE remove:TRUE add:TRUE add:TRUE isEmpty:FALSE remove:FALSE iterator add:TRUE
+1
+HashSet contains:FALSE add:TRUE isEmpty:FALSE remove:FALSE add:FALSE contains:FALSE contains:TRUE iterator remove:TRUE add:FALSE add:FALSE iterator remove:TRUE add:TRUE contains:TRUE remove:TRUE remove:TRUE remove:FALSE isEmpty:TRUE isEmpty:TRUE remove:FALSE add:TRUE isEmpty:FALSE size remove:FALSE contains:FALSE iterator contains:FALSE add:TRUE
+1
+HashSet isEmpty:FALSE
+1
+HashSet contains:FALSE add:FALSE contains:FALSE iterator add:FALSE remove:TRUE add:TRUE size remove:TRUE contains:FALSE isEmpty:TRUE add:TRUE
+1
+HashSet contains:TRUE add:TRUE add:FALSE contains:TRUE
+1
+HashSet add:TRUE add:TRUE size remove:TRUE size add:TRUE remove:FALSE iterator contains:FALSE iterator size remove:TRUE
+1
+HashSet remove:TRUE add:TRUE remove:TRUE size add:FALSE remove:FALSE add:FALSE remove:TRUE remove:TRUE iterator add:FALSE remove:TRUE remove:FALSE contains:FALSE size isEmpty:TRUE contains:FALSE remove:FALSE isEmpty:TRUE
+1
+HashSet add:TRUE contains:TRUE remove:TRUE remove:FALSE add:TRUE contains:TRUE remove:FALSE add:TRUE add:TRUE isEmpty:FALSE size remove:TRUE isEmpty:FALSE remove:FALSE contains:FALSE isEmpty:FALSE remove:FALSE remove:TRUE isEmpty:TRUE isEmpty:TRUE
+1
+HashSet contains:FALSE remove:TRUE remove:TRUE contains:FALSE
+1
+HashSet add:FALSE iterator size isEmpty:FALSE size remove:FALSE
+1
+HashSet iterator iterator size contains:TRUE
+1
+HashSet iterator remove:TRUE add:FALSE remove:FALSE remove:TRUE remove:TRUE size contains:FALSE isEmpty:TRUE remove:FALSE add:TRUE iterator iterator contains:TRUE add:TRUE remove:TRUE add:TRUE add:TRUE isEmpty:FALSE contains:FALSE add:FALSE remove:FALSE remove:TRUE isEmpty:FALSE size contains:FALSE contains:FALSE
+1
+HashSet add:TRUE add:FALSE isEmpty:FALSE remove:FALSE remove:FALSE remove:TRUE
+1
+HashSet remove:TRUE isEmpty:TRUE add:TRUE contains:FALSE add:FALSE iterator add:FALSE add:FALSE remove:TRUE add:TRUE contains:FALSE add:FALSE iterator add:FALSE contains:TRUE iterator remove:TRUE add:TRUE remove:TRUE add:TRUE contains:TRUE remove:FALSE contains:FALSE remove:TRUE contains:FALSE contains:TRUE iterator
+1
+HashSet remove:TRUE iterator remove:FALSE iterator remove:FALSE iterator add:TRUE isEmpty:FALSE contains:TRUE size isEmpty:FALSE
+1
+HashSet iterator size contains:FALSE add:FALSE contains:FALSE
+1
+HashSet contains:TRUE contains:TRUE remove:TRUE isEmpty:FALSE remove:TRUE isEmpty:TRUE add:TRUE remove:TRUE
+1
+HashSet remove:TRUE remove:FALSE contains:FALSE isEmpty:FALSE remove:TRUE
+1
+HashSet size isEmpty:FALSE size iterator add:TRUE remove:TRUE contains:FALSE
+1
+HashSet add:TRUE size remove:FALSE isEmpty:FALSE add:FALSE iterator contains:FALSE contains:TRUE
+1
+HashSet contains:FALSE contains:TRUE contains:TRUE size contains:TRUE iterator iterator contains:TRUE contains:TRUE contains:FALSE
+1
+HashSet add:TRUE size remove:TRUE isEmpty:TRUE remove:FALSE add:TRUE size contains:FALSE isEmpty:FALSE contains:FALSE contains:TRUE size iterator remove:FALSE remove:TRUE
+1
+HashSet remove:FALSE iterator contains:FALSE size iterator iterator iterator contains:FALSE remove:FALSE add:TRUE contains:TRUE iterator remove:FALSE contains:FALSE remove:TRUE add:TRUE contains:TRUE remove:FALSE contains:TRUE add:TRUE
+1
+HashSet contains:FALSE isEmpty:TRUE size add:TRUE contains:TRUE isEmpty:FALSE add:TRUE remove:FALSE remove:TRUE
+1
+HashSet remove:TRUE add:TRUE remove:TRUE contains:FALSE contains:FALSE add:TRUE remove:TRUE size add:TRUE contains:FALSE remove:FALSE
+1
+HashSet remove:TRUE isEmpty:TRUE add:TRUE add:TRUE contains:TRUE size contains:FALSE remove:TRUE
+1
+HashSet remove:TRUE contains:TRUE contains:FALSE add:FALSE remove:FALSE remove:TRUE contains:FALSE isEmpty:FALSE add:TRUE iterator isEmpty:FALSE iterator size remove:TRUE add:TRUE remove:FALSE remove:TRUE add:FALSE remove:FALSE contains:FALSE isEmpty:FALSE remove:TRUE add:TRUE contains:TRUE contains:TRUE isEmpty:FALSE add:TRUE
+1
+HashSet iterator iterator
+1
+HashSet remove:FALSE add:TRUE remove:TRUE isEmpty:TRUE isEmpty:TRUE contains:FALSE
+1
+HashSet add:TRUE iterator iterator remove:TRUE size add:TRUE size isEmpty:FALSE add:TRUE isEmpty:FALSE contains:FALSE remove:FALSE
+1
+HashSet add:FALSE add:FALSE contains:FALSE remove:FALSE remove:TRUE
+1
+HashSet add:TRUE add:FALSE add:TRUE contains:TRUE
+1
+HashSet remove:FALSE isEmpty:TRUE isEmpty:TRUE remove:FALSE add:TRUE add:FALSE contains:FALSE add:TRUE remove:TRUE
+1
+HashSet add:TRUE remove:FALSE remove:TRUE size remove:FALSE
+1
+HashSet size remove:TRUE isEmpty:TRUE size isEmpty:TRUE size size
+1
+HashSet iterator add:TRUE add:FALSE iterator contains:TRUE add:FALSE contains:FALSE
+1
+HashSet isEmpty:TRUE iterator size isEmpty:TRUE iterator remove:FALSE contains:FALSE isEmpty:TRUE remove:FALSE add:TRUE add:TRUE iterator remove:FALSE add:TRUE isEmpty:FALSE isEmpty:FALSE remove:TRUE add:TRUE remove:TRUE isEmpty:TRUE add:TRUE contains:TRUE size contains:FALSE isEmpty:FALSE isEmpty:FALSE contains:TRUE
+1
+HashSet iterator add:FALSE iterator size
+1
+HashSet size size
+1
+HashSet contains:FALSE size remove:FALSE remove:FALSE add:TRUE contains:FALSE contains:FALSE size add:FALSE add:TRUE contains:TRUE
+1
+HashSet contains:FALSE add:FALSE add:FALSE remove:TRUE add:TRUE remove:TRUE add:TRUE remove:TRUE remove:FALSE iterator add:TRUE size size iterator iterator add:FALSE contains:TRUE
+1
+HashSet add:FALSE add:FALSE add:FALSE iterator contains:TRUE iterator contains:FALSE remove:FALSE contains:FALSE isEmpty:FALSE add:TRUE contains:TRUE size
+1
+HashSet add:TRUE iterator contains:TRUE remove:TRUE contains:FALSE add:TRUE isEmpty:FALSE contains:FALSE contains:FALSE add:FALSE remove:FALSE size remove:FALSE contains:TRUE remove:TRUE remove:FALSE add:TRUE contains:TRUE remove:FALSE size remove:TRUE iterator iterator add:TRUE remove:FALSE size isEmpty:FALSE add:TRUE isEmpty:FALSE
+1
+HashSet remove:TRUE add:TRUE isEmpty:FALSE remove:TRUE remove:FALSE add:TRUE iterator remove:TRUE add:TRUE add:FALSE contains:TRUE isEmpty:FALSE remove:TRUE remove:TRUE add:TRUE add:FALSE contains:TRUE iterator isEmpty:FALSE isEmpty:FALSE add:FALSE remove:FALSE iterator contains:FALSE add:FALSE
+1
+HashSet size size add:TRUE contains:TRUE remove:TRUE remove:FALSE contains:FALSE contains:FALSE contains:TRUE remove:FALSE add:TRUE contains:FALSE iterator size isEmpty:FALSE contains:FALSE size contains:TRUE iterator remove:TRUE add:FALSE add:FALSE contains:TRUE remove:FALSE remove:TRUE remove:TRUE isEmpty:FALSE remove:TRUE size iterator iterator iterator add:FALSE add:FALSE add:TRUE isEmpty:FALSE isEmpty:FALSE contains:FALSE add:FALSE contains:TRUE remove:FALSE add:TRUE
+1
+HashSet add:TRUE remove:TRUE add:TRUE remove:FALSE
+1
+HashSet add:TRUE iterator iterator iterator isEmpty:FALSE iterator add:TRUE contains:TRUE remove:TRUE add:TRUE
+1
+HashSet add:TRUE contains:FALSE contains:TRUE iterator iterator
+1
+HashSet size add:TRUE size remove:TRUE contains:TRUE
+1
+HashSet contains:FALSE add:TRUE contains:TRUE remove:FALSE add:FALSE isEmpty:FALSE contains:FALSE remove:TRUE remove:TRUE add:TRUE remove:TRUE contains:FALSE contains:FALSE remove:FALSE contains:FALSE add:TRUE iterator
+1
+HashSet remove:TRUE add:TRUE add:FALSE remove:TRUE add:TRUE
+1
+HashSet add:TRUE size contains:TRUE
+1
+HashSet add:FALSE size iterator contains:TRUE contains:TRUE remove:TRUE iterator add:FALSE iterator remove:TRUE remove:FALSE add:FALSE add:FALSE isEmpty:FALSE contains:TRUE size add:TRUE contains:FALSE remove:TRUE contains:FALSE
+1
+HashSet add:TRUE isEmpty:FALSE add:TRUE contains:TRUE isEmpty:FALSE size contains:TRUE remove:FALSE remove:TRUE remove:TRUE iterator iterator size size
+1
+HashSet add:TRUE add:TRUE contains:TRUE remove:TRUE remove:TRUE remove:TRUE contains:TRUE remove:FALSE
+1
+HashSet contains:FALSE remove:FALSE isEmpty:TRUE
+1
+HashSet size remove:FALSE iterator remove:FALSE contains:FALSE contains:FALSE add:TRUE size contains:TRUE add:FALSE size add:FALSE remove:TRUE contains:FALSE iterator add:TRUE remove:TRUE iterator remove:FALSE remove:FALSE remove:FALSE iterator isEmpty:TRUE size contains:FALSE add:TRUE
+1
+HashSet remove:TRUE add:TRUE add:TRUE contains:TRUE contains:TRUE isEmpty:FALSE
+1
+HashSet isEmpty:FALSE isEmpty:FALSE remove:TRUE remove:TRUE contains:TRUE size add:FALSE isEmpty:FALSE add:TRUE
+1
+HashSet remove:FALSE add:TRUE isEmpty:FALSE remove:TRUE iterator size add:TRUE add:TRUE contains:TRUE iterator iterator add:FALSE size size add:TRUE remove:TRUE remove:TRUE add:TRUE remove:TRUE size remove:FALSE isEmpty:TRUE isEmpty:TRUE size iterator isEmpty:TRUE remove:FALSE remove:FALSE isEmpty:TRUE remove:FALSE iterator contains:FALSE
+1
+HashSet size add:TRUE add:TRUE
+1
+HashSet add:TRUE add:FALSE isEmpty:FALSE add:FALSE contains:TRUE add:TRUE
+1
+HashSet size add:TRUE contains:FALSE
+1
+HashSet remove:FALSE add:TRUE remove:TRUE contains:FALSE iterator size
+1
+HashSet isEmpty:FALSE remove:FALSE iterator remove:FALSE
+1
+HashSet size contains:FALSE contains:FALSE
+1
+HashSet contains:FALSE isEmpty:FALSE isEmpty:FALSE isEmpty:FALSE contains:TRUE iterator add:TRUE remove:TRUE remove:TRUE add:TRUE size iterator iterator
+1
+HashSet size size iterator
+1
+HashSet isEmpty:FALSE add:TRUE size remove:TRUE contains:FALSE contains:FALSE add:FALSE add:FALSE contains:TRUE isEmpty:FALSE isEmpty:FALSE isEmpty:FALSE isEmpty:FALSE remove:FALSE add:TRUE remove:FALSE remove:FALSE contains:TRUE remove:TRUE add:TRUE remove:TRUE add:TRUE contains:FALSE remove:TRUE size
+1
+HashSet contains:TRUE add:FALSE contains:FALSE contains:FALSE contains:FALSE remove:FALSE remove:TRUE iterator contains:FALSE
+1
+HashSet add:TRUE iterator contains:TRUE contains:TRUE add:FALSE add:TRUE size
+1
+HashSet remove:TRUE remove:TRUE add:TRUE remove:TRUE
+1
+HashSet size add:TRUE remove:FALSE contains:FALSE iterator contains:FALSE add:FALSE add:TRUE remove:TRUE
+1
+HashSet size iterator remove:FALSE contains:FALSE add:TRUE add:TRUE iterator remove:FALSE contains:TRUE add:FALSE contains:FALSE add:TRUE contains:TRUE isEmpty:FALSE remove:TRUE
+1
+HashSet add:TRUE contains:FALSE contains:FALSE remove:FALSE remove:TRUE size
+1
+HashSet size isEmpty:TRUE
+1
+HashSet isEmpty:FALSE remove:FALSE iterator add:FALSE isEmpty:FALSE isEmpty:FALSE contains:FALSE remove:TRUE add:TRUE remove:TRUE add:TRUE
+1
+HashSet size add:FALSE contains:FALSE isEmpty:FALSE contains:FALSE add:FALSE isEmpty:FALSE isEmpty:FALSE add:TRUE iterator remove:TRUE
+1
+HashSet iterator remove:FALSE remove:TRUE iterator iterator remove:FALSE isEmpty:TRUE remove:FALSE
+1
+HashSet add:TRUE contains:TRUE size remove:TRUE remove:FALSE add:TRUE isEmpty:FALSE contains:TRUE remove:FALSE add:TRUE add:TRUE add:FALSE remove:FALSE isEmpty:FALSE remove:FALSE remove:FALSE
+1
+HashSet iterator add:TRUE remove:TRUE remove:TRUE iterator size iterator add:TRUE remove:TRUE add:TRUE iterator contains:FALSE
+1
+HashSet size isEmpty:FALSE remove:TRUE size remove:TRUE iterator remove:TRUE
+1
+HashSet contains:FALSE add:FALSE iterator isEmpty:FALSE size remove:FALSE iterator isEmpty:FALSE iterator iterator size size
+1
+HashSet contains:TRUE contains:TRUE remove:FALSE isEmpty:FALSE add:FALSE contains:TRUE contains:TRUE add:TRUE iterator contains:FALSE remove:FALSE isEmpty:FALSE remove:TRUE
+1
+HashSet size remove:TRUE add:TRUE contains:TRUE remove:TRUE remove:TRUE contains:FALSE
+1
+HashSet size add:TRUE remove:TRUE remove:TRUE contains:TRUE remove:TRUE size contains:FALSE contains:FALSE remove:TRUE remove:FALSE remove:FALSE add:TRUE isEmpty:FALSE isEmpty:FALSE size add:FALSE contains:FALSE contains:TRUE add:FALSE
+1
+HashSet isEmpty:FALSE size isEmpty:FALSE size contains:FALSE add:TRUE contains:FALSE add:FALSE remove:TRUE iterator
+1
+HashSet remove:FALSE isEmpty:FALSE
+1
+HashSet add:FALSE contains:TRUE remove:TRUE iterator size
+1
+HashSet iterator contains:FALSE iterator add:TRUE isEmpty:FALSE remove:FALSE remove:TRUE iterator add:TRUE remove:TRUE contains:FALSE
+1
+HashSet contains:FALSE remove:TRUE add:FALSE contains:FALSE remove:FALSE add:FALSE remove:TRUE isEmpty:FALSE iterator remove:TRUE iterator add:FALSE remove:TRUE add:FALSE add:TRUE iterator contains:TRUE contains:TRUE contains:FALSE
+1
+HashSet add:FALSE remove:TRUE
+1
+HashSet size contains:TRUE iterator remove:TRUE remove:TRUE isEmpty:TRUE iterator
+1
+HashSet isEmpty:TRUE size add:TRUE isEmpty:FALSE remove:TRUE add:FALSE contains:FALSE contains:FALSE remove:TRUE contains:TRUE contains:TRUE contains:FALSE remove:FALSE size remove:TRUE remove:FALSE
+1
+HashSet iterator iterator contains:FALSE isEmpty:TRUE add:TRUE add:TRUE contains:FALSE iterator remove:TRUE add:TRUE add:FALSE size remove:TRUE
+1
+HashSet remove:TRUE isEmpty:FALSE contains:TRUE remove:TRUE remove:FALSE
+1
+HashSet isEmpty:FALSE iterator contains:FALSE
+1
+HashSet remove:TRUE contains:FALSE contains:TRUE
+1
+HashSet contains:FALSE remove:TRUE remove:TRUE add:TRUE isEmpty:FALSE remove:FALSE add:FALSE isEmpty:FALSE contains:TRUE remove:TRUE add:TRUE iterator
+1
+HashSet contains:FALSE iterator add:TRUE
+1
+HashSet remove:FALSE remove:FALSE
+1
+HashSet remove:TRUE contains:TRUE add:FALSE size isEmpty:FALSE remove:TRUE add:TRUE contains:FALSE size add:TRUE isEmpty:FALSE isEmpty:FALSE contains:FALSE isEmpty:FALSE contains:FALSE isEmpty:FALSE contains:TRUE size size iterator add:FALSE remove:TRUE contains:FALSE add:TRUE iterator size remove:TRUE add:TRUE remove:TRUE contains:FALSE remove:FALSE remove:FALSE add:TRUE contains:TRUE iterator
+1
+HashSet add:TRUE remove:TRUE remove:TRUE remove:TRUE contains:FALSE isEmpty:TRUE
+1
+HashSet add:TRUE add:FALSE size contains:FALSE remove:FALSE remove:TRUE isEmpty:TRUE isEmpty:TRUE add:TRUE remove:TRUE isEmpty:FALSE remove:TRUE contains:FALSE iterator add:TRUE add:FALSE remove:FALSE iterator isEmpty:FALSE size contains:TRUE add:FALSE add:FALSE add:FALSE isEmpty:FALSE size remove:TRUE contains:TRUE contains:FALSE isEmpty:FALSE size size isEmpty:FALSE contains:FALSE add:TRUE remove:TRUE contains:FALSE iterator add:TRUE
+1
+HashSet contains:FALSE isEmpty:TRUE add:TRUE iterator iterator iterator remove:FALSE isEmpty:FALSE contains:FALSE
+1
+HashSet remove:TRUE contains:FALSE remove:FALSE add:TRUE add:TRUE contains:TRUE isEmpty:FALSE remove:FALSE remove:FALSE add:FALSE add:FALSE contains:TRUE contains:TRUE remove:TRUE add:TRUE isEmpty:FALSE
+1
+HashSet contains:TRUE remove:TRUE size
+1
+HashSet contains:FALSE isEmpty:FALSE
+1
+HashSet add:TRUE isEmpty:FALSE remove:TRUE add:TRUE contains:FALSE remove:TRUE iterator
+1
+HashSet remove:TRUE contains:TRUE size iterator remove:FALSE size contains:FALSE contains:FALSE remove:TRUE size
+1
+HashSet iterator iterator isEmpty:TRUE size size remove:FALSE contains:FALSE add:TRUE remove:TRUE add:TRUE isEmpty:FALSE contains:FALSE
+1
+HashSet size isEmpty:TRUE isEmpty:TRUE contains:FALSE remove:FALSE contains:FALSE iterator isEmpty:TRUE add:TRUE add:TRUE remove:TRUE add:TRUE remove:FALSE contains:FALSE contains:TRUE size add:FALSE remove:TRUE iterator add:TRUE size contains:FALSE remove:TRUE add:TRUE add:FALSE contains:TRUE contains:TRUE contains:FALSE isEmpty:FALSE remove:TRUE
+1
+HashSet add:TRUE contains:FALSE add:FALSE contains:TRUE add:FALSE remove:FALSE remove:TRUE contains:FALSE iterator size iterator size size contains:FALSE contains:FALSE add:TRUE contains:FALSE remove:FALSE
+1
+HashSet remove:TRUE contains:FALSE remove:FALSE remove:TRUE remove:TRUE
+1
+HashSet isEmpty:TRUE add:TRUE remove:TRUE isEmpty:TRUE contains:FALSE add:TRUE isEmpty:FALSE size
+1
+HashSet remove:FALSE isEmpty:FALSE size add:FALSE iterator size isEmpty:FALSE iterator iterator iterator add:TRUE isEmpty:FALSE add:FALSE add:TRUE isEmpty:FALSE
+1
+HashSet contains:TRUE remove:TRUE contains:TRUE iterator add:TRUE remove:FALSE remove:FALSE add:TRUE remove:FALSE
+1
+HashSet remove:TRUE remove:FALSE isEmpty:TRUE remove:FALSE add:TRUE remove:FALSE contains:FALSE iterator contains:TRUE contains:FALSE remove:TRUE remove:FALSE remove:FALSE isEmpty:TRUE add:TRUE isEmpty:FALSE remove:TRUE
+1
+HashSet remove:TRUE iterator size iterator iterator add:FALSE size contains:FALSE remove:FALSE remove:FALSE add:TRUE remove:FALSE size remove:FALSE remove:TRUE iterator
+1
+HashSet isEmpty:FALSE remove:TRUE add:TRUE remove:TRUE contains:FALSE remove:FALSE add:TRUE add:FALSE remove:FALSE contains:FALSE contains:FALSE
+1
+HashSet iterator contains:FALSE remove:FALSE remove:FALSE add:TRUE contains:FALSE contains:TRUE add:TRUE remove:FALSE add:TRUE remove:TRUE size size size remove:TRUE isEmpty:TRUE add:TRUE remove:TRUE size
+1
+HashSet size iterator isEmpty:TRUE contains:FALSE contains:FALSE
+1
+HashSet isEmpty:FALSE contains:FALSE add:TRUE contains:TRUE add:TRUE iterator iterator isEmpty:FALSE add:FALSE add:TRUE remove:FALSE iterator remove:FALSE size add:TRUE size iterator size remove:FALSE contains:FALSE contains:TRUE
+1
+HashSet add:TRUE contains:FALSE remove:TRUE
+1
+HashSet add:TRUE contains:TRUE add:TRUE isEmpty:FALSE remove:FALSE
+1
+HashSet iterator remove:FALSE contains:FALSE
+1
+HashSet isEmpty:FALSE contains:FALSE remove:TRUE add:TRUE remove:FALSE
+1
+HashSet contains:FALSE isEmpty:TRUE size add:TRUE contains:TRUE remove:TRUE size add:TRUE isEmpty:FALSE contains:TRUE add:TRUE add:TRUE contains:FALSE remove:TRUE contains:TRUE size
+1
+HashSet isEmpty:TRUE add:TRUE remove:TRUE remove:TRUE
+1
+HashSet add:TRUE add:FALSE contains:FALSE remove:TRUE isEmpty:TRUE add:TRUE
+1
+HashSet add:TRUE add:TRUE add:TRUE add:TRUE
+1
+HashSet remove:TRUE isEmpty:TRUE isEmpty:TRUE size size remove:FALSE iterator isEmpty:TRUE size contains:FALSE size iterator iterator
+1
+HashSet iterator remove:FALSE isEmpty:FALSE
+1
+HashSet remove:FALSE remove:FALSE contains:FALSE size remove:FALSE add:TRUE contains:FALSE remove:FALSE remove:TRUE contains:TRUE isEmpty:FALSE add:FALSE isEmpty:FALSE add:TRUE
+1
+HashSet remove:TRUE contains:FALSE add:TRUE iterator size isEmpty:FALSE contains:FALSE add:TRUE
+1
+HashSet contains:FALSE isEmpty:TRUE add:TRUE iterator remove:TRUE iterator iterator remove:FALSE iterator add:TRUE add:TRUE add:TRUE iterator size remove:TRUE remove:TRUE
+1
+HashSet isEmpty:FALSE add:TRUE size remove:TRUE size iterator contains:TRUE remove:TRUE add:TRUE contains:FALSE remove:TRUE contains:FALSE add:FALSE remove:TRUE size iterator size remove:FALSE remove:FALSE add:TRUE remove:TRUE add:TRUE add:TRUE size iterator isEmpty:FALSE contains:TRUE contains:TRUE contains:FALSE
+1
+HashSet contains:FALSE iterator size remove:FALSE contains:FALSE size isEmpty:TRUE add:TRUE contains:FALSE remove:FALSE remove:TRUE size remove:TRUE contains:TRUE remove:FALSE
+1
+HashSet contains:FALSE contains:FALSE
+1
+HashSet add:FALSE contains:FALSE remove:TRUE isEmpty:TRUE add:TRUE contains:FALSE isEmpty:FALSE remove:TRUE contains:TRUE contains:FALSE add:TRUE remove:TRUE isEmpty:FALSE remove:TRUE add:TRUE contains:TRUE size remove:FALSE size remove:TRUE remove:FALSE add:TRUE iterator isEmpty:FALSE add:FALSE isEmpty:FALSE contains:FALSE add:FALSE remove:FALSE iterator size
+1
+HashSet remove:FALSE isEmpty:FALSE remove:TRUE add:TRUE
+1
+HashSet remove:FALSE contains:FALSE isEmpty:TRUE iterator isEmpty:TRUE
+1
+HashSet isEmpty:FALSE remove:FALSE remove:FALSE contains:TRUE remove:TRUE iterator add:TRUE add:FALSE
+1
+HashSet isEmpty:TRUE size iterator remove:FALSE add:TRUE isEmpty:FALSE contains:TRUE contains:TRUE remove:TRUE size isEmpty:FALSE add:TRUE size remove:FALSE add:FALSE contains:TRUE remove:TRUE add:TRUE contains:TRUE remove:TRUE add:FALSE contains:FALSE isEmpty:FALSE iterator add:TRUE
+1
+HashSet remove:FALSE add:TRUE remove:TRUE contains:FALSE add:TRUE add:FALSE size contains:TRUE size contains:FALSE isEmpty:FALSE remove:FALSE add:FALSE isEmpty:FALSE add:TRUE size remove:FALSE isEmpty:FALSE remove:FALSE remove:TRUE contains:TRUE contains:TRUE add:FALSE add:FALSE isEmpty:FALSE remove:FALSE remove:TRUE size contains:FALSE iterator size iterator add:FALSE contains:TRUE add:TRUE
+1
+HashSet iterator iterator iterator
+1
+HashSet isEmpty:FALSE isEmpty:FALSE add:FALSE size contains:FALSE contains:TRUE add:TRUE iterator
+1
+HashSet add:TRUE size iterator size remove:TRUE
+1
+HashSet isEmpty:TRUE remove:FALSE size add:TRUE
+1
+HashSet size add:TRUE size isEmpty:FALSE add:FALSE isEmpty:FALSE iterator contains:TRUE size add:FALSE iterator add:FALSE
+1
+HashSet iterator contains:FALSE size isEmpty:FALSE contains:FALSE remove:TRUE add:FALSE iterator add:FALSE add:TRUE
+1
+HashSet remove:FALSE contains:FALSE contains:TRUE remove:TRUE contains:TRUE size add:FALSE isEmpty:FALSE add:FALSE add:TRUE add:FALSE
+1
+HashSet iterator add:TRUE add:FALSE iterator add:TRUE contains:TRUE contains:FALSE remove:TRUE remove:TRUE size iterator add:TRUE
+1
+HashSet isEmpty:TRUE remove:FALSE add:TRUE remove:TRUE add:TRUE contains:TRUE size add:TRUE add:TRUE size
+1
+HashSet add:TRUE iterator remove:TRUE size isEmpty:TRUE isEmpty:TRUE iterator iterator iterator iterator isEmpty:TRUE remove:FALSE add:TRUE remove:TRUE size contains:TRUE remove:FALSE add:FALSE remove:TRUE size isEmpty:TRUE size
+1
+HashSet contains:FALSE size add:TRUE iterator iterator
+1
+HashSet add:TRUE size
+1
+HashSet iterator remove:TRUE size remove:TRUE isEmpty:TRUE isEmpty:TRUE contains:FALSE
+1
+HashSet remove:TRUE add:FALSE iterator isEmpty:FALSE add:TRUE remove:TRUE add:FALSE remove:TRUE add:TRUE add:FALSE size remove:TRUE contains:FALSE remove:FALSE size size contains:FALSE remove:FALSE add:TRUE contains:TRUE contains:FALSE add:TRUE add:TRUE
+1
+HashSet remove:TRUE iterator size size remove:FALSE isEmpty:TRUE add:TRUE isEmpty:FALSE isEmpty:FALSE remove:TRUE contains:FALSE add:FALSE remove:TRUE add:TRUE iterator add:TRUE size size remove:TRUE iterator iterator remove:FALSE add:FALSE isEmpty:FALSE remove:TRUE add:TRUE
+1
+HashSet add:TRUE remove:FALSE add:FALSE
+1
+HashSet size remove:FALSE remove:TRUE iterator remove:TRUE isEmpty:FALSE add:FALSE add:FALSE add:TRUE size remove:FALSE remove:TRUE iterator contains:FALSE isEmpty:TRUE add:TRUE remove:FALSE add:FALSE remove:TRUE add:TRUE add:TRUE add:TRUE remove:TRUE iterator remove:FALSE add:FALSE isEmpty:FALSE iterator isEmpty:FALSE contains:FALSE remove:FALSE size size add:FALSE
+1
+HashSet contains:FALSE contains:FALSE size
+1
+HashSet contains:TRUE remove:TRUE contains:TRUE contains:TRUE remove:FALSE iterator
+1
+HashSet remove:FALSE isEmpty:TRUE contains:FALSE add:TRUE
+1
+HashSet remove:FALSE contains:TRUE iterator isEmpty:FALSE iterator size size contains:TRUE isEmpty:FALSE add:FALSE remove:TRUE isEmpty:TRUE
+1
+HashSet iterator contains:FALSE
+1
+HashSet isEmpty:FALSE add:TRUE add:FALSE remove:TRUE iterator remove:FALSE add:TRUE remove:FALSE size remove:TRUE isEmpty:FALSE remove:TRUE iterator add:TRUE contains:TRUE contains:FALSE remove:TRUE size iterator add:TRUE size iterator add:TRUE remove:FALSE add:FALSE contains:FALSE isEmpty:FALSE remove:FALSE add:FALSE isEmpty:FALSE
+1
+HashSet isEmpty:FALSE contains:TRUE iterator iterator isEmpty:FALSE contains:TRUE contains:TRUE remove:TRUE add:TRUE remove:FALSE remove:TRUE iterator contains:FALSE add:TRUE remove:FALSE remove:TRUE add:TRUE contains:TRUE isEmpty:FALSE
+1
+HashSet isEmpty:FALSE contains:TRUE size contains:FALSE
+1
+HashSet iterator size contains:FALSE contains:TRUE iterator iterator
+1
+HashSet size add:TRUE
+1
+HashSet iterator isEmpty:TRUE size
+1
+HashSet remove:FALSE contains:FALSE isEmpty:TRUE remove:FALSE
+1
+HashSet contains:FALSE size size contains:TRUE remove:FALSE add:TRUE add:TRUE add:FALSE isEmpty:FALSE add:TRUE add:FALSE contains:FALSE contains:TRUE contains:TRUE isEmpty:FALSE iterator add:FALSE iterator add:TRUE contains:FALSE size add:TRUE
+1
+HashSet size remove:TRUE add:TRUE size remove:TRUE
+1
+HashSet contains:TRUE
+1
+HashSet iterator remove:FALSE add:TRUE remove:TRUE size size size isEmpty:TRUE iterator isEmpty:TRUE
+1
+HashSet remove:TRUE size iterator add:FALSE size size size remove:FALSE size isEmpty:FALSE remove:FALSE remove:TRUE add:TRUE remove:TRUE remove:FALSE contains:FALSE iterator iterator iterator add:TRUE add:TRUE iterator remove:TRUE remove:FALSE add:TRUE contains:FALSE add:TRUE remove:TRUE contains:TRUE remove:FALSE contains:TRUE isEmpty:FALSE contains:FALSE add:FALSE add:FALSE add:FALSE contains:FALSE add:FALSE isEmpty:FALSE contains:TRUE contains:FALSE contains:TRUE isEmpty:FALSE
+1
+HashSet iterator isEmpty:FALSE add:TRUE remove:TRUE

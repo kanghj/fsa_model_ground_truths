@@ -1,0 +1,454 @@
+19
+HashMap
+10
+HashMap values
+6
+HashMap putAll
+5
+HashMap size
+4
+HashMap containsKey:FALSE
+3
+HashMap containsKey:TRUE
+3
+HashMap put
+3
+HashMap putAll remove
+2
+HashMap entrySet
+2
+HashMap remove containsKey:TRUE
+2
+HashMap values putAll
+2
+HashMap putAll containsKey_EXIT364:FALSE
+1
+HashMap containsKey_EXIT364:FALSE putAll put
+1
+HashMap putAll remove values
+1
+HashMap containsKey_EXIT364:FALSE containsKey_EXIT364:FALSE size values size size entrySet entrySet size values put size entrySet
+1
+HashMap putAll get
+1
+HashMap values get putAll entrySet containsKey:TRUE containsKey:TRUE
+1
+HashMap remove containsKey_EXIT364:FALSE size get values values containsKey_EXIT364:FALSE size put putAll remove containsKey_EXIT364:FALSE putAll remove putAll remove size get put get
+1
+HashMap entrySet get entrySet containsKey_EXIT364:FALSE putAll size put put
+1
+HashMap put put containsKey:TRUE size
+1
+HashMap values putAll entrySet remove containsKey:TRUE size containsKey:FALSE remove size get entrySet get size entrySet putAll
+1
+HashMap values get size putAll entrySet containsKey:FALSE containsKey:FALSE values values put putAll put
+1
+HashMap containsKey:TRUE putAll get remove
+1
+HashMap remove containsKey_EXIT364:FALSE entrySet
+1
+HashMap putAll get put
+1
+HashMap putAll remove get remove size values
+1
+HashMap putAll put values remove put get values size values put size containsKey:TRUE remove remove put entrySet remove remove putAll values
+1
+HashMap size entrySet containsKey_EXIT364:FALSE values putAll
+1
+HashMap putAll containsKey_EXIT364:FALSE containsKey_EXIT364:FALSE containsKey_EXIT364:FALSE get containsKey_EXIT364:FALSE get containsKey_EXIT364:FALSE putAll get containsKey:FALSE values put put
+1
+HashMap remove values put remove values containsKey_EXIT364:FALSE putAll entrySet containsKey:FALSE containsKey:FALSE
+1
+HashMap remove size containsKey_EXIT364:FALSE
+1
+HashMap put remove entrySet putAll size values entrySet containsKey:TRUE remove containsKey:FALSE values containsKey:FALSE entrySet containsKey:FALSE containsKey:TRUE containsKey:FALSE entrySet putAll containsKey:FALSE containsKey:TRUE put containsKey:TRUE containsKey:TRUE putAll entrySet putAll size putAll get remove size values get get remove values containsKey_EXIT364:FALSE
+1
+HashMap size putAll putAll values
+1
+HashMap containsKey:TRUE get putAll putAll remove values containsKey_EXIT364:FALSE put putAll get containsKey:TRUE remove values containsKey:FALSE containsKey:TRUE containsKey:FALSE remove values values remove size size remove values containsKey:FALSE entrySet containsKey:FALSE containsKey:TRUE
+1
+HashMap values remove size containsKey_EXIT364:FALSE entrySet get containsKey_EXIT364:FALSE
+1
+HashMap get entrySet containsKey_EXIT364:FALSE put put containsKey:FALSE containsKey:FALSE remove
+1
+HashMap put values putAll containsKey:TRUE values putAll
+1
+HashMap containsKey:FALSE remove putAll put values
+1
+HashMap containsKey_EXIT364:FALSE get get putAll remove
+1
+HashMap entrySet remove entrySet
+1
+HashMap size size entrySet put containsKey:TRUE get put values put remove containsKey:TRUE get remove size putAll entrySet putAll remove containsKey:TRUE entrySet size putAll size put containsKey:TRUE remove get putAll containsKey:TRUE containsKey:FALSE remove putAll entrySet containsKey:FALSE
+1
+HashMap get size get putAll get putAll get
+1
+HashMap entrySet values put entrySet containsKey:TRUE containsKey:FALSE values size remove remove put containsKey:TRUE put get entrySet put containsKey:FALSE values remove remove remove putAll size entrySet put putAll putAll putAll get containsKey:TRUE get entrySet containsKey:FALSE values size size containsKey:TRUE putAll values get containsKey:FALSE containsKey:TRUE
+1
+HashMap remove putAll put
+1
+HashMap remove get put remove containsKey:TRUE remove putAll values size containsKey:FALSE entrySet putAll putAll values values size put containsKey:TRUE containsKey:FALSE entrySet size
+1
+HashMap get containsKey:TRUE put values remove remove putAll put put size putAll put get values remove putAll put
+1
+HashMap put remove size values putAll putAll size remove get values containsKey_EXIT364:FALSE
+1
+HashMap put remove values entrySet remove putAll
+1
+HashMap values get get containsKey:TRUE get size get values entrySet containsKey:FALSE containsKey:TRUE entrySet containsKey:FALSE
+1
+HashMap remove put remove
+1
+HashMap remove entrySet containsKey_EXIT364:FALSE put putAll put remove
+1
+HashMap putAll containsKey:TRUE containsKey:TRUE get put putAll put get remove
+1
+HashMap putAll remove get
+1
+HashMap get
+1
+HashMap values remove entrySet putAll
+1
+HashMap size entrySet putAll remove size values containsKey:FALSE
+1
+HashMap putAll containsKey:TRUE remove
+1
+HashMap get values putAll putAll containsKey:FALSE containsKey:FALSE values entrySet putAll putAll
+1
+HashMap remove containsKey:FALSE put
+1
+HashMap put get put putAll containsKey:TRUE size entrySet values containsKey:FALSE remove put containsKey:TRUE remove putAll entrySet entrySet get put containsKey:FALSE get remove putAll putAll get remove values get put remove putAll
+1
+HashMap values entrySet values put putAll remove get remove putAll putAll containsKey:TRUE remove
+1
+HashMap putAll put remove putAll
+1
+HashMap put putAll entrySet get get entrySet size entrySet remove values size remove
+1
+HashMap entrySet put put get containsKey:FALSE containsKey:FALSE putAll entrySet remove get get putAll get entrySet size containsKey:FALSE put remove remove putAll
+1
+HashMap putAll put containsKey:TRUE remove
+1
+HashMap size containsKey:TRUE values
+1
+HashMap containsKey_EXIT364:FALSE put
+1
+HashMap remove get entrySet containsKey:FALSE remove size containsKey_EXIT364:FALSE size size putAll remove values get entrySet values size entrySet putAll size containsKey:FALSE get containsKey:FALSE containsKey:TRUE get get
+1
+HashMap put get put containsKey:TRUE
+1
+HashMap containsKey_EXIT364:FALSE put entrySet
+1
+HashMap entrySet containsKey_EXIT364:FALSE putAll
+1
+HashMap size values entrySet
+1
+HashMap entrySet containsKey_EXIT364:FALSE size put containsKey:TRUE size get values values entrySet putAll get containsKey:FALSE remove get put remove putAll containsKey:TRUE get putAll size remove put containsKey:FALSE remove values values entrySet putAll containsKey:TRUE remove putAll values containsKey:TRUE size containsKey:TRUE containsKey:FALSE containsKey:FALSE
+1
+HashMap putAll get putAll putAll remove putAll putAll containsKey:TRUE containsKey:FALSE remove size entrySet remove entrySet put size size entrySet remove containsKey:TRUE containsKey:TRUE get
+1
+HashMap putAll get entrySet putAll entrySet putAll
+1
+HashMap remove containsKey_EXIT364:FALSE put remove remove putAll containsKey:FALSE get values size containsKey:FALSE containsKey:TRUE
+1
+HashMap values values
+1
+HashMap containsKey:FALSE values remove size put put entrySet remove
+1
+HashMap size size get entrySet containsKey:FALSE containsKey:FALSE containsKey:FALSE remove putAll put put containsKey:FALSE putAll containsKey:FALSE remove containsKey:TRUE size remove remove
+1
+HashMap size containsKey:FALSE size get put remove putAll put remove get
+1
+HashMap values containsKey:FALSE putAll entrySet get putAll containsKey:FALSE remove put putAll remove entrySet containsKey_EXIT364:FALSE size get putAll values put remove
+1
+HashMap remove containsKey:TRUE remove entrySet putAll put
+1
+HashMap values get get putAll remove putAll entrySet get putAll remove containsKey:FALSE put get containsKey:TRUE get size values put containsKey:FALSE remove size containsKey:FALSE containsKey:FALSE containsKey:TRUE put remove containsKey_EXIT364:FALSE
+1
+HashMap size containsKey_EXIT364:FALSE put put put put containsKey:TRUE remove containsKey_EXIT364:FALSE size get size
+1
+HashMap get entrySet putAll
+1
+HashMap containsKey_EXIT364:FALSE putAll size get get
+1
+HashMap putAll get remove values putAll size entrySet
+1
+HashMap size putAll get putAll
+1
+HashMap get remove get containsKey:TRUE size containsKey:TRUE remove put put remove remove remove put putAll get putAll putAll containsKey:TRUE get putAll values put values size entrySet put containsKey:TRUE size containsKey:TRUE get size values entrySet values containsKey:FALSE size putAll containsKey:FALSE values containsKey:FALSE entrySet containsKey:FALSE entrySet entrySet
+1
+HashMap putAll putAll putAll remove putAll putAll get put put containsKey:TRUE
+1
+HashMap get put get containsKey:TRUE values containsKey:TRUE remove
+1
+HashMap values putAll size containsKey:TRUE containsKey:TRUE containsKey:FALSE size
+1
+HashMap size containsKey_EXIT364:FALSE put size putAll put values containsKey:TRUE values values put put size put
+1
+HashMap putAll containsKey:FALSE values
+1
+HashMap entrySet put remove remove
+1
+HashMap containsKey:FALSE size containsKey:FALSE remove
+1
+HashMap containsKey_EXIT364:FALSE values get put get remove get containsKey:TRUE entrySet remove values values putAll containsKey:FALSE entrySet putAll put putAll containsKey:TRUE remove get get entrySet containsKey:FALSE remove containsKey:TRUE containsKey:FALSE containsKey:TRUE values put values containsKey:FALSE putAll entrySet put putAll remove entrySet size containsKey:FALSE size size size size put containsKey:TRUE
+1
+HashMap put size containsKey:TRUE
+1
+HashMap remove size values size put remove get containsKey_EXIT364:FALSE putAll put size containsKey:TRUE remove put get putAll put remove putAll entrySet size entrySet size putAll get put containsKey:TRUE containsKey:TRUE putAll containsKey:FALSE remove containsKey_EXIT364:FALSE containsKey_EXIT364:FALSE entrySet get containsKey_EXIT364:FALSE values
+1
+HashMap values putAll size put get containsKey:FALSE containsKey:TRUE
+1
+HashMap get size
+1
+HashMap containsKey:FALSE containsKey:FALSE size get containsKey:FALSE size containsKey:FALSE putAll
+1
+HashMap containsKey:TRUE remove remove get size entrySet containsKey:FALSE entrySet containsKey:FALSE entrySet size
+1
+HashMap putAll put entrySet putAll
+1
+HashMap entrySet putAll containsKey_EXIT364:FALSE entrySet entrySet get containsKey_EXIT364:FALSE get
+1
+HashMap size containsKey:TRUE get get values put get put putAll
+1
+HashMap putAll values size values get size
+1
+HashMap putAll get putAll containsKey_EXIT364:FALSE putAll
+1
+HashMap put get size put putAll put remove put remove
+1
+HashMap putAll size size get size get putAll putAll values containsKey_EXIT364:FALSE get putAll entrySet values get size remove entrySet size putAll
+1
+HashMap remove get putAll remove
+1
+HashMap putAll remove values remove get put
+1
+HashMap putAll get containsKey:TRUE remove putAll entrySet values containsKey:FALSE put get containsKey:FALSE size putAll containsKey:TRUE containsKey:FALSE put remove get putAll size remove entrySet put entrySet put containsKey:FALSE
+1
+HashMap put put remove put containsKey:TRUE size remove
+1
+HashMap size get remove put containsKey:FALSE
+1
+HashMap containsKey:FALSE containsKey:FALSE remove get putAll remove
+1
+HashMap get put values remove
+1
+HashMap put entrySet containsKey:TRUE put size remove get putAll entrySet containsKey:TRUE putAll containsKey:TRUE containsKey:FALSE put remove containsKey_EXIT364:FALSE values
+1
+HashMap putAll containsKey:TRUE containsKey:FALSE putAll put values size
+1
+HashMap putAll size get entrySet values putAll containsKey:FALSE values values entrySet containsKey:TRUE remove
+1
+HashMap containsKey_EXIT364:FALSE values entrySet putAll remove containsKey:TRUE remove values containsKey_EXIT364:FALSE get entrySet put containsKey:TRUE get values
+1
+HashMap putAll values remove get entrySet entrySet entrySet put containsKey:TRUE put putAll get put put values size size
+1
+HashMap entrySet size putAll values values containsKey:FALSE
+1
+HashMap containsKey_EXIT364:FALSE putAll size put containsKey:TRUE
+1
+HashMap putAll containsKey:TRUE size get values entrySet values remove containsKey_EXIT364:FALSE get putAll
+1
+HashMap containsKey_EXIT364:FALSE
+1
+HashMap containsKey_EXIT364:FALSE size
+1
+HashMap putAll values values size putAll put size containsKey:TRUE entrySet remove get entrySet putAll put entrySet containsKey:TRUE values remove remove containsKey_EXIT364:FALSE put put entrySet size remove putAll putAll remove put entrySet containsKey:FALSE
+1
+HashMap remove size containsKey_EXIT364:FALSE size putAll entrySet put size remove remove size entrySet putAll values remove put size remove containsKey_EXIT364:FALSE putAll containsKey:FALSE containsKey:TRUE putAll entrySet values values get putAll entrySet containsKey:FALSE entrySet get containsKey:FALSE containsKey:FALSE
+1
+HashMap putAll get remove putAll entrySet remove values get
+1
+HashMap putAll get containsKey:TRUE
+1
+HashMap put containsKey:FALSE size values get entrySet
+1
+HashMap size containsKey:FALSE put values values values size remove putAll values putAll containsKey_EXIT364:FALSE size values put
+1
+HashMap get size containsKey:FALSE putAll putAll remove
+1
+HashMap remove put remove size get
+1
+HashMap get put containsKey:FALSE remove values get putAll remove values entrySet containsKey:FALSE put
+1
+HashMap containsKey:FALSE containsKey:FALSE putAll containsKey:TRUE get
+1
+HashMap entrySet put get put size put get entrySet containsKey:TRUE get remove containsKey:TRUE containsKey:TRUE size containsKey:TRUE remove put get size putAll size containsKey:TRUE remove putAll size putAll put entrySet values remove values putAll get entrySet entrySet putAll containsKey_EXIT364:FALSE containsKey_EXIT364:FALSE values containsKey_EXIT364:FALSE containsKey_EXIT364:FALSE containsKey_EXIT364:FALSE values values
+1
+HashMap putAll containsKey:TRUE remove values containsKey:TRUE remove size containsKey:TRUE putAll get size containsKey:FALSE containsKey:TRUE remove containsKey:FALSE put containsKey:TRUE size remove size remove get put get putAll values put size values
+1
+HashMap put containsKey:TRUE size containsKey:TRUE containsKey:FALSE containsKey:FALSE remove putAll get values get values putAll remove put size size get get entrySet remove
+1
+HashMap remove size get remove put values entrySet remove entrySet containsKey:TRUE remove size put remove putAll size size values
+1
+HashMap size putAll size putAll size containsKey:FALSE get get entrySet get containsKey:FALSE values remove get remove get
+1
+HashMap get size values size values put entrySet get putAll values size containsKey:TRUE values containsKey:FALSE entrySet putAll containsKey:TRUE entrySet remove size containsKey_EXIT364:FALSE size get values containsKey_EXIT364:FALSE put entrySet remove putAll containsKey_EXIT364:FALSE containsKey_EXIT364:FALSE putAll putAll
+1
+HashMap putAll get put get remove size values remove putAll containsKey_EXIT364:FALSE putAll remove get put containsKey:TRUE containsKey:FALSE remove containsKey:FALSE putAll values remove entrySet containsKey:FALSE
+1
+HashMap get values get
+1
+HashMap values get get putAll values containsKey_EXIT364:FALSE size
+1
+HashMap containsKey:FALSE get values remove
+1
+HashMap get containsKey:TRUE containsKey:FALSE get containsKey:TRUE remove values remove remove remove containsKey:FALSE size remove get
+1
+HashMap remove values put
+1
+HashMap entrySet remove size size remove putAll
+1
+HashMap size put containsKey:TRUE values remove entrySet
+1
+HashMap size values entrySet remove values putAll putAll remove size
+1
+HashMap putAll putAll
+1
+HashMap containsKey:TRUE remove size size putAll
+1
+HashMap putAll containsKey:TRUE get containsKey:TRUE remove
+1
+HashMap size containsKey:FALSE putAll
+1
+HashMap put containsKey:FALSE get remove values entrySet remove values containsKey:FALSE remove get containsKey:TRUE entrySet putAll remove remove get putAll values size putAll values entrySet
+1
+HashMap entrySet size
+1
+HashMap get put entrySet entrySet remove remove containsKey_EXIT364:FALSE containsKey_EXIT364:FALSE put size containsKey:TRUE remove entrySet size entrySet containsKey:TRUE put get size put entrySet
+1
+HashMap entrySet put remove containsKey:FALSE put entrySet get put containsKey:FALSE size values remove entrySet put size remove get putAll entrySet entrySet remove remove putAll containsKey:TRUE
+1
+HashMap size values get values put put entrySet put size containsKey:FALSE remove putAll size containsKey_EXIT364:FALSE put putAll values containsKey:TRUE entrySet remove entrySet size size remove putAll put entrySet putAll putAll remove containsKey_EXIT364:FALSE entrySet containsKey_EXIT364:FALSE containsKey_EXIT364:FALSE containsKey_EXIT364:FALSE get values
+1
+HashMap size values remove containsKey_EXIT364:FALSE get putAll containsKey_EXIT364:FALSE values size putAll putAll size putAll remove get get put remove putAll get put containsKey:FALSE get containsKey:FALSE entrySet values
+1
+HashMap containsKey_EXIT364:FALSE putAll put containsKey:FALSE put get size entrySet get entrySet values entrySet put get containsKey:TRUE values get get remove remove remove remove
+1
+HashMap remove put get entrySet putAll entrySet remove entrySet putAll containsKey:TRUE containsKey:TRUE put remove putAll put putAll values containsKey:TRUE containsKey:FALSE putAll entrySet size containsKey:FALSE containsKey:FALSE size get containsKey:TRUE put size values size containsKey:FALSE containsKey:FALSE containsKey:TRUE values values get size put remove
+1
+HashMap entrySet put remove
+1
+HashMap entrySet putAll size size putAll size entrySet put values put get putAll put containsKey:FALSE entrySet containsKey:TRUE entrySet values containsKey:TRUE size
+1
+HashMap remove containsKey:TRUE containsKey:FALSE containsKey:FALSE get size
+1
+HashMap size containsKey:FALSE size entrySet containsKey:FALSE containsKey:TRUE containsKey:FALSE put entrySet containsKey:FALSE values containsKey:TRUE entrySet containsKey:FALSE
+1
+HashMap put get values
+1
+HashMap size get size values values values putAll size entrySet put remove containsKey:FALSE containsKey:FALSE values size containsKey:FALSE values get containsKey:FALSE remove
+1
+HashMap entrySet containsKey:TRUE putAll size size
+1
+HashMap values size values
+1
+HashMap remove put containsKey:TRUE put containsKey:FALSE entrySet values
+1
+HashMap containsKey:FALSE containsKey:TRUE
+1
+HashMap values values putAll get
+1
+HashMap size size get putAll containsKey:TRUE get remove get putAll putAll putAll put containsKey:TRUE containsKey:FALSE containsKey:TRUE remove containsKey:TRUE remove containsKey_EXIT364:FALSE get size putAll containsKey:TRUE put containsKey:FALSE size containsKey:FALSE get remove put size remove values containsKey_EXIT364:FALSE containsKey_EXIT364:FALSE put values
+1
+HashMap values size
+1
+HashMap entrySet entrySet values put containsKey:TRUE get entrySet putAll remove
+1
+HashMap get remove containsKey:FALSE containsKey:TRUE remove get put
+1
+HashMap putAll size containsKey_EXIT364:FALSE entrySet put entrySet get remove values containsKey_EXIT364:FALSE putAll values put
+1
+HashMap put putAll values size containsKey:FALSE
+1
+HashMap containsKey:TRUE containsKey:FALSE put get
+1
+HashMap entrySet values entrySet containsKey:FALSE containsKey:TRUE put entrySet get remove remove entrySet entrySet size putAll putAll size values putAll containsKey:FALSE
+1
+HashMap size putAll get size entrySet putAll containsKey:FALSE putAll remove
+1
+HashMap putAll putAll put
+1
+HashMap put remove entrySet remove put containsKey:FALSE get size get putAll put
+1
+HashMap put remove
+1
+HashMap values containsKey_EXIT364:FALSE putAll putAll entrySet remove containsKey_EXIT364:FALSE putAll entrySet containsKey:TRUE putAll remove putAll remove put values size values get entrySet get remove get values entrySet containsKey:FALSE
+1
+HashMap remove get put values remove containsKey:FALSE containsKey:TRUE containsKey:FALSE containsKey:TRUE entrySet putAll values size remove putAll
+1
+HashMap get size values entrySet size put values entrySet
+1
+HashMap size putAll containsKey:FALSE
+1
+HashMap size remove containsKey:FALSE entrySet containsKey:TRUE
+1
+HashMap putAll put put entrySet containsKey:TRUE putAll remove entrySet remove entrySet entrySet size put remove remove entrySet size containsKey_EXIT364:FALSE containsKey_EXIT364:FALSE containsKey_EXIT364:FALSE containsKey_EXIT364:FALSE putAll putAll containsKey:FALSE values containsKey:TRUE size containsKey:TRUE
+1
+HashMap containsKey:FALSE containsKey:TRUE size put containsKey:FALSE containsKey:FALSE remove put get remove put putAll containsKey:FALSE putAll
+1
+HashMap putAll containsKey:TRUE putAll values containsKey:TRUE get containsKey:TRUE get remove size values values
+1
+HashMap containsKey_EXIT364:FALSE entrySet entrySet get entrySet get
+1
+HashMap get size putAll values get size get put containsKey:TRUE
+1
+HashMap containsKey:FALSE get values remove size put containsKey:TRUE remove putAll putAll size values containsKey:FALSE
+1
+HashMap putAll containsKey:FALSE put values get remove put putAll remove remove get containsKey_EXIT364:FALSE
+1
+HashMap containsKey:TRUE get containsKey:TRUE put containsKey:TRUE remove values
+1
+HashMap get remove putAll remove values get putAll containsKey_EXIT364:FALSE size values values putAll
+1
+HashMap values get containsKey:TRUE remove entrySet
+1
+HashMap size values
+1
+HashMap values containsKey:TRUE values put put
+1
+HashMap values put size remove containsKey:TRUE
+1
+HashMap values values putAll containsKey_EXIT364:FALSE entrySet containsKey_EXIT364:FALSE
+1
+HashMap containsKey_EXIT364:FALSE values putAll entrySet entrySet entrySet values remove get putAll containsKey_EXIT364:FALSE containsKey_EXIT364:FALSE
+1
+HashMap values entrySet put remove put get remove putAll
+1
+HashMap remove values entrySet entrySet values
+1
+HashMap entrySet putAll put putAll containsKey:TRUE
+1
+HashMap putAll putAll get size putAll size remove remove putAll entrySet put remove containsKey_EXIT364:FALSE get putAll get get values put entrySet containsKey:FALSE
+1
+HashMap containsKey:TRUE remove remove values containsKey_EXIT364:FALSE containsKey_EXIT364:FALSE size size get put get remove size entrySet put get remove remove values get values containsKey:FALSE containsKey:TRUE containsKey:TRUE containsKey:TRUE put putAll size entrySet put containsKey:FALSE containsKey:TRUE size entrySet
+1
+HashMap containsKey:TRUE entrySet values get put entrySet values containsKey:FALSE entrySet put remove putAll get containsKey:FALSE containsKey:TRUE values remove get putAll remove values values put get size putAll put putAll get remove
+1
+HashMap putAll values get putAll putAll entrySet get put remove size remove get size values remove putAll containsKey:FALSE remove values containsKey:TRUE
+1
+HashMap putAll get remove get containsKey:FALSE get get put
+1
+HashMap values putAll entrySet remove putAll containsKey:FALSE put entrySet remove put size remove containsKey:FALSE putAll containsKey:TRUE get get get containsKey:FALSE remove values size
+1
+HashMap entrySet putAll putAll remove containsKey_EXIT364:FALSE values putAll get values put get entrySet get remove remove size remove
+1
+HashMap get size remove size values put
+1
+HashMap put put containsKey:TRUE values put
+1
+HashMap containsKey_EXIT364:FALSE putAll put containsKey:FALSE size containsKey:FALSE putAll get get containsKey:FALSE get containsKey:TRUE values containsKey:TRUE putAll
+1
+HashMap get get put remove
+1
+HashMap values get entrySet putAll
+1
+HashMap containsKey:TRUE remove values remove
+1
+HashMap containsKey:TRUE values remove values remove get get size putAll containsKey:TRUE
+1
+HashMap putAll get size
+1
+HashMap putAll entrySet
+1
+HashMap containsKey:TRUE remove entrySet put containsKey:FALSE putAll remove size get remove size entrySet putAll

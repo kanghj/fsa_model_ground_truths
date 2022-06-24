@@ -1,0 +1,204 @@
+11
+LinkedList
+4
+LinkedList remove:FALSE
+3
+LinkedList add:TRUE
+3
+LinkedList size
+2
+LinkedList size addLast remove
+1
+LinkedList remove:TRUE remove:FALSE add remove:TRUE listIterator size remove:FALSE remove toArray size remove:FALSE toArray addLast remove:FALSE remove:TRUE remove:FALSE remove size add remove remove listIterator
+1
+LinkedList remove:TRUE
+1
+LinkedList size remove:TRUE
+1
+LinkedList size listIterator remove remove:TRUE
+1
+LinkedList add:TRUE remove:TRUE size toArray add:TRUE remove:TRUE
+1
+LinkedList toArray remove:TRUE toArray
+1
+LinkedList add remove:TRUE remove:TRUE toArray remove:FALSE listIterator remove:FALSE toArray
+1
+LinkedList remove remove:FALSE toArray size size addLast remove size remove:FALSE
+1
+LinkedList add:TRUE remove:FALSE add:TRUE remove:TRUE
+1
+LinkedList add remove:TRUE add:TRUE remove:FALSE addLast remove:TRUE add:TRUE add toArray remove:TRUE remove:TRUE size listIterator add:TRUE toArray listIterator remove addLast add size addLast addLast toArray add:TRUE size add add:TRUE add remove:TRUE remove remove:FALSE listIterator size toArray remove remove:FALSE toArray size
+1
+LinkedList addLast remove:FALSE toArray remove
+1
+LinkedList remove:FALSE remove:FALSE add:TRUE remove add addLast remove:TRUE addLast listIterator listIterator listIterator remove:FALSE add:TRUE add:TRUE add remove:TRUE add remove:TRUE add addLast remove:TRUE addLast add remove
+1
+LinkedList remove:TRUE listIterator size listIterator add:TRUE remove:TRUE add add:TRUE add:TRUE
+1
+LinkedList remove remove add remove
+1
+LinkedList listIterator addLast add size remove toArray remove:TRUE add:TRUE remove addLast add:TRUE remove:FALSE listIterator add addLast remove remove:TRUE add:TRUE remove remove:FALSE remove:TRUE toArray remove toArray listIterator add:TRUE
+1
+LinkedList remove:TRUE addLast toArray add:TRUE remove:TRUE size add remove:TRUE remove:TRUE remove size size add:TRUE size size remove:TRUE toArray remove remove:FALSE add addLast add:TRUE add addLast addLast
+1
+LinkedList size listIterator size listIterator listIterator size remove:FALSE size size toArray toArray listIterator
+1
+LinkedList size add add:TRUE listIterator size add remove:TRUE
+1
+LinkedList add:TRUE remove add:TRUE listIterator listIterator addLast toArray toArray remove
+1
+LinkedList remove:FALSE addLast remove remove:TRUE
+1
+LinkedList addLast remove:FALSE remove toArray add remove size toArray remove:TRUE toArray size remove:TRUE remove size size toArray size add add toArray
+1
+LinkedList add addLast add remove add remove:TRUE remove:FALSE
+1
+LinkedList remove:TRUE add:TRUE remove
+1
+LinkedList remove:FALSE toArray
+1
+LinkedList add:TRUE toArray remove:TRUE remove:TRUE
+1
+LinkedList size remove listIterator toArray remove toArray remove:TRUE toArray listIterator add add remove remove:TRUE addLast remove:FALSE remove remove:TRUE add add:TRUE listIterator toArray remove:FALSE add:TRUE add:TRUE listIterator remove:FALSE listIterator add remove addLast remove:TRUE remove:TRUE add:TRUE add:TRUE add remove:FALSE toArray size remove:FALSE addLast size
+1
+LinkedList remove
+1
+LinkedList toArray remove listIterator add:TRUE add:TRUE add:TRUE listIterator toArray remove:TRUE add:TRUE add:TRUE remove addLast size remove toArray toArray listIterator addLast
+1
+LinkedList remove:FALSE add addLast addLast remove:TRUE remove add:TRUE remove addLast
+1
+LinkedList addLast remove:TRUE add:TRUE add remove:TRUE addLast remove
+1
+LinkedList size remove:FALSE remove remove:TRUE remove:TRUE add:TRUE
+1
+LinkedList addLast remove:TRUE addLast remove:TRUE size add:TRUE listIterator add remove:TRUE remove:TRUE size addLast
+1
+LinkedList add size toArray remove add remove remove:TRUE remove:FALSE
+1
+LinkedList add addLast add:TRUE remove remove:TRUE
+1
+LinkedList toArray listIterator toArray add:TRUE remove toArray listIterator remove add:TRUE remove:FALSE remove:TRUE remove:TRUE toArray listIterator listIterator size add:TRUE remove toArray remove:FALSE size addLast add
+1
+LinkedList remove:FALSE add:TRUE remove:FALSE toArray add:TRUE add add:TRUE remove toArray add:TRUE remove:FALSE add toArray add:TRUE
+1
+LinkedList listIterator remove:TRUE add toArray size size remove:FALSE remove:FALSE remove:TRUE addLast remove:FALSE toArray listIterator listIterator remove:FALSE remove toArray add remove:FALSE toArray add add:TRUE remove
+1
+LinkedList addLast remove remove:FALSE toArray
+1
+LinkedList size listIterator
+1
+LinkedList remove:TRUE add remove add addLast toArray remove addLast remove:TRUE add remove:TRUE addLast addLast remove:TRUE remove add:TRUE size addLast size size remove size
+1
+LinkedList remove addLast size remove add remove:FALSE remove:TRUE
+1
+LinkedList listIterator add:TRUE toArray
+1
+LinkedList size toArray add:TRUE size remove:FALSE remove
+1
+LinkedList remove:FALSE toArray remove:TRUE size remove:FALSE add:TRUE toArray remove:FALSE
+1
+LinkedList remove:FALSE listIterator remove:TRUE remove:FALSE toArray remove:FALSE
+1
+LinkedList remove:TRUE remove:FALSE size remove:FALSE listIterator size add:TRUE add addLast remove remove:FALSE add remove:TRUE addLast addLast remove remove size listIterator toArray listIterator toArray listIterator addLast addLast remove add add:TRUE remove add:TRUE remove:TRUE remove:FALSE remove:FALSE add toArray size add size remove:TRUE remove:TRUE toArray listIterator toArray add:TRUE
+1
+LinkedList listIterator add:TRUE remove:TRUE addLast toArray remove:TRUE remove:FALSE add:TRUE
+1
+LinkedList add add:TRUE remove remove:TRUE add size
+1
+LinkedList toArray remove:FALSE remove:FALSE remove:FALSE addLast size toArray add:TRUE toArray addLast size addLast add remove:TRUE
+1
+LinkedList listIterator remove:FALSE remove:FALSE remove:TRUE addLast
+1
+LinkedList remove:FALSE remove:TRUE add:TRUE listIterator remove
+1
+LinkedList add:TRUE addLast remove add addLast
+1
+LinkedList remove:FALSE add:TRUE remove:TRUE size remove:TRUE size listIterator listIterator toArray addLast size add:TRUE addLast remove:TRUE remove add:TRUE remove:TRUE addLast add:TRUE remove:TRUE
+1
+LinkedList toArray add:TRUE toArray remove
+1
+LinkedList add
+1
+LinkedList remove:TRUE add remove:TRUE addLast size remove:TRUE add remove:TRUE remove:FALSE remove remove:TRUE add remove size listIterator size remove:FALSE add:TRUE remove:FALSE addLast
+1
+LinkedList remove:FALSE size add:TRUE toArray add addLast addLast listIterator toArray remove:TRUE remove:FALSE add:TRUE add:TRUE listIterator addLast remove:FALSE addLast remove:FALSE size remove:TRUE listIterator
+1
+LinkedList add:TRUE remove:FALSE add:TRUE toArray add:TRUE add add:TRUE toArray listIterator add:TRUE add remove add add add size addLast size remove:FALSE remove addLast size listIterator listIterator listIterator remove listIterator addLast remove:TRUE size size remove:FALSE
+1
+LinkedList listIterator addLast remove:TRUE remove add:TRUE listIterator add remove listIterator addLast listIterator remove addLast remove:FALSE size remove:TRUE addLast toArray remove remove:TRUE add addLast listIterator size toArray size remove toArray add:TRUE
+1
+LinkedList add:TRUE remove:TRUE add:TRUE toArray remove toArray add:TRUE remove:TRUE size add remove remove:TRUE remove
+1
+LinkedList size add addLast add:TRUE addLast remove:FALSE remove remove:TRUE remove:TRUE remove:FALSE listIterator size size remove add:TRUE remove:FALSE listIterator
+1
+LinkedList remove:FALSE size toArray size listIterator add:TRUE addLast remove:FALSE addLast listIterator remove
+1
+LinkedList size size addLast add toArray add
+1
+LinkedList toArray listIterator listIterator remove:FALSE addLast remove toArray addLast remove:TRUE remove add:TRUE listIterator remove add:TRUE toArray add toArray remove:FALSE add remove
+1
+LinkedList add:TRUE addLast remove:FALSE remove:TRUE remove listIterator toArray listIterator add
+1
+LinkedList remove:FALSE size size remove:TRUE remove:FALSE listIterator
+1
+LinkedList add remove toArray
+1
+LinkedList remove:TRUE add toArray
+1
+LinkedList addLast remove:TRUE
+1
+LinkedList toArray add listIterator remove listIterator
+1
+LinkedList size remove:FALSE toArray add add:TRUE
+1
+LinkedList remove:FALSE remove:FALSE add remove listIterator size remove:FALSE toArray size listIterator
+1
+LinkedList remove add remove remove:FALSE remove:FALSE remove:FALSE listIterator size addLast size listIterator add remove:TRUE size remove
+1
+LinkedList toArray add remove
+1
+LinkedList listIterator addLast remove add
+1
+LinkedList listIterator add:TRUE remove:TRUE
+1
+LinkedList add addLast remove add:TRUE remove add:TRUE listIterator addLast addLast add:TRUE addLast add remove:FALSE add listIterator
+1
+LinkedList add remove:FALSE size remove:TRUE size addLast addLast remove:FALSE listIterator add
+1
+LinkedList remove:TRUE size remove:FALSE
+1
+LinkedList remove:FALSE remove:TRUE remove:TRUE add addLast remove add remove:TRUE remove:FALSE addLast remove remove:FALSE addLast size listIterator addLast remove size remove addLast remove add:TRUE toArray listIterator toArray remove:TRUE
+1
+LinkedList remove:TRUE addLast remove
+1
+LinkedList add listIterator addLast size
+1
+LinkedList remove listIterator listIterator toArray toArray add addLast remove addLast listIterator remove remove:TRUE addLast listIterator add add:TRUE remove:TRUE listIterator toArray size toArray add:TRUE remove add:TRUE toArray size add add:TRUE addLast
+1
+LinkedList addLast remove:FALSE remove:FALSE size remove addLast remove:TRUE remove remove:FALSE addLast remove:FALSE add size size remove toArray size size listIterator remove:FALSE
+1
+LinkedList toArray toArray size remove:FALSE add listIterator toArray remove remove:TRUE
+1
+LinkedList addLast toArray listIterator remove:TRUE add:TRUE
+1
+LinkedList remove:TRUE size size toArray size
+1
+LinkedList remove:FALSE add:TRUE remove remove:FALSE remove:FALSE remove:FALSE
+1
+LinkedList add:TRUE size listIterator remove remove:FALSE
+1
+LinkedList listIterator remove listIterator remove:FALSE add:TRUE
+1
+LinkedList add add:TRUE remove addLast
+1
+LinkedList add size remove:TRUE size
+1
+LinkedList remove remove:TRUE
+1
+LinkedList remove:TRUE add remove:FALSE remove remove
+1
+LinkedList add:TRUE toArray remove:TRUE addLast remove toArray remove:TRUE add:TRUE toArray remove size listIterator add:TRUE add:TRUE add remove:TRUE remove:TRUE add:TRUE listIterator remove:TRUE remove:FALSE
+1
+LinkedList remove:TRUE remove remove addLast addLast add:TRUE add
+1
+LinkedList add:TRUE remove

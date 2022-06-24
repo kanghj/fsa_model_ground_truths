@@ -1,0 +1,426 @@
+18
+ArrayList
+3
+ArrayList iterator
+1
+ArrayList listIterator indexOf listIterator remove
+1
+ArrayList size size clear remove:FALSE isEmpty:TRUE
+1
+ArrayList clear listIterator size addAll:TRUE
+1
+ArrayList add isEmpty:FALSE
+1
+ArrayList size add clear iterator isEmpty:TRUE remove:FALSE clear listIterator indexOf
+1
+ArrayList indexOf size isEmpty:TRUE size size add:TRUE clear addAll:TRUE isEmpty:FALSE remove:FALSE
+1
+ArrayList clear listIterator isEmpty:TRUE add remove:TRUE listIterator iterator addAll:FALSE iterator add:TRUE toArray listIterator listIterator addAll:TRUE get size add:TRUE addAll:FALSE isEmpty:FALSE isEmpty:FALSE remove listIterator remove:FALSE addAll:FALSE iterator remove:FALSE addAll:TRUE remove remove:TRUE add isEmpty:FALSE remove:FALSE isEmpty:FALSE get remove:TRUE remove iterator add add remove:TRUE addAll:FALSE remove:TRUE remove:FALSE toArray toArray add:TRUE indexOf
+1
+ArrayList size addAll:FALSE
+1
+ArrayList remove:TRUE addAll:TRUE addAll:TRUE set remove clear clear add:TRUE listIterator iterator add:TRUE listIterator listIterator clear addAll:TRUE addAll:TRUE listIterator iterator toArray indexOf remove listIterator isEmpty:TRUE indexOf addAll:TRUE remove:FALSE addAll:FALSE remove:TRUE remove:FALSE indexOf isEmpty:FALSE toArray toArray indexOf
+1
+ArrayList size addAll:TRUE isEmpty:FALSE remove
+1
+ArrayList remove:TRUE listIterator remove:TRUE toArray remove:TRUE addAll:TRUE remove:TRUE add set
+1
+ArrayList addAll:TRUE size remove:TRUE set clear addAll:FALSE indexOf
+1
+ArrayList indexOf addAll:FALSE remove size add
+1
+ArrayList toArray size iterator add iterator size listIterator addAll:TRUE isEmpty:FALSE remove:TRUE listIterator toArray set iterator toArray toArray size size remove:TRUE add listIterator remove:TRUE isEmpty:TRUE add:TRUE add:TRUE remove:TRUE get clear iterator indexOf iterator add add:TRUE addAll:FALSE addAll:TRUE remove add:TRUE add:TRUE remove remove toArray clear remove:FALSE indexOf addAll:TRUE get listIterator remove:FALSE remove
+1
+ArrayList add:TRUE indexOf remove:TRUE
+1
+ArrayList toArray indexOf remove remove remove:FALSE clear iterator add:TRUE set addAll:TRUE toArray isEmpty:FALSE size add isEmpty:FALSE get remove toArray add toArray get toArray add size
+1
+ArrayList iterator isEmpty:TRUE add:TRUE indexOf iterator iterator remove:TRUE clear iterator isEmpty:TRUE add:TRUE remove
+1
+ArrayList set iterator size remove remove:TRUE toArray get isEmpty:FALSE remove:TRUE remove:FALSE
+1
+ArrayList get size toArray
+1
+ArrayList remove:FALSE clear clear indexOf clear addAll:TRUE set listIterator addAll:TRUE toArray remove addAll:TRUE set add:TRUE listIterator set add listIterator remove:FALSE isEmpty:FALSE remove
+1
+ArrayList remove iterator add:TRUE remove addAll:FALSE clear add add:TRUE get
+1
+ArrayList iterator remove:TRUE get listIterator set isEmpty:FALSE remove:FALSE remove:FALSE indexOf remove:FALSE remove:FALSE addAll:TRUE add get iterator remove:TRUE remove:FALSE
+1
+ArrayList toArray addAll:TRUE toArray addAll:TRUE get remove add iterator set remove:TRUE remove:TRUE iterator remove:FALSE indexOf toArray remove remove:FALSE iterator
+1
+ArrayList addAll:TRUE listIterator remove:TRUE add:TRUE listIterator get set addAll:FALSE set addAll:TRUE add add remove add size remove
+1
+ArrayList clear isEmpty:TRUE addAll:TRUE addAll:FALSE size listIterator toArray get clear remove:FALSE toArray iterator clear addAll:FALSE addAll:FALSE indexOf clear size add:TRUE get remove:TRUE remove:FALSE toArray
+1
+ArrayList remove:FALSE clear clear remove:FALSE add:TRUE remove add remove:TRUE isEmpty:FALSE clear addAll:TRUE listIterator addAll:FALSE size listIterator indexOf remove add isEmpty:FALSE remove remove:FALSE add:TRUE addAll:FALSE isEmpty:FALSE add:TRUE indexOf size toArray listIterator remove indexOf set listIterator remove:TRUE add addAll:FALSE remove:TRUE iterator add clear addAll:TRUE add listIterator remove:TRUE toArray addAll:TRUE clear remove:FALSE iterator
+1
+ArrayList clear addAll:FALSE size iterator isEmpty:TRUE size size clear remove:FALSE addAll:FALSE isEmpty:TRUE add add listIterator set iterator listIterator clear toArray
+1
+ArrayList iterator add listIterator size remove size
+1
+ArrayList remove:TRUE toArray
+1
+ArrayList remove:FALSE
+1
+ArrayList addAll:FALSE remove:FALSE remove:TRUE remove:FALSE remove add size set add:TRUE listIterator remove:TRUE clear add get set remove:TRUE addAll:FALSE size iterator toArray toArray add:TRUE clear addAll:FALSE isEmpty:TRUE size toArray remove:FALSE
+1
+ArrayList size add:TRUE addAll:TRUE get listIterator indexOf isEmpty:FALSE toArray get remove iterator remove get remove:FALSE remove listIterator clear addAll:TRUE remove remove:TRUE iterator get isEmpty:FALSE add iterator size addAll:TRUE
+1
+ArrayList listIterator remove:TRUE remove remove:TRUE
+1
+ArrayList toArray
+1
+ArrayList isEmpty:TRUE clear isEmpty:TRUE size toArray remove:FALSE toArray add add:TRUE addAll:FALSE remove:TRUE size indexOf iterator clear indexOf iterator size add set toArray isEmpty:FALSE add remove addAll:TRUE remove:TRUE toArray addAll:TRUE listIterator toArray iterator isEmpty:FALSE addAll:TRUE add isEmpty:FALSE remove remove indexOf add remove:TRUE isEmpty:TRUE indexOf addAll:FALSE isEmpty:TRUE addAll:FALSE iterator remove:FALSE indexOf iterator
+1
+ArrayList iterator toArray addAll:TRUE clear isEmpty:TRUE listIterator
+1
+ArrayList isEmpty:TRUE remove:FALSE add addAll:TRUE
+1
+ArrayList iterator add indexOf remove:FALSE iterator iterator add remove get addAll:FALSE remove addAll:FALSE remove:FALSE isEmpty:TRUE addAll:TRUE remove addAll:TRUE remove toArray add add:TRUE iterator remove remove:TRUE size size clear add:TRUE iterator get set clear add:TRUE indexOf indexOf remove:FALSE add:TRUE indexOf isEmpty:FALSE indexOf remove:TRUE add listIterator remove:TRUE add:TRUE remove:TRUE toArray addAll:FALSE
+1
+ArrayList indexOf isEmpty:TRUE iterator iterator iterator listIterator
+1
+ArrayList remove:TRUE size
+1
+ArrayList listIterator toArray addAll:FALSE size clear iterator addAll:TRUE toArray remove:TRUE add remove listIterator addAll:TRUE clear
+1
+ArrayList addAll:FALSE listIterator iterator clear addAll:FALSE iterator clear indexOf isEmpty:TRUE addAll:FALSE size add remove:TRUE isEmpty:FALSE addAll:FALSE iterator listIterator remove:FALSE clear iterator addAll:FALSE
+1
+ArrayList size indexOf addAll:TRUE addAll:FALSE
+1
+ArrayList indexOf addAll:FALSE add addAll:TRUE toArray set clear addAll:FALSE iterator indexOf addAll:TRUE size toArray remove remove add:TRUE iterator
+1
+ArrayList addAll:TRUE remove:FALSE remove:TRUE add indexOf clear remove:FALSE isEmpty:TRUE clear indexOf isEmpty:TRUE indexOf addAll:TRUE get remove addAll:TRUE add indexOf listIterator get add addAll:FALSE addAll:TRUE set remove:TRUE remove:TRUE isEmpty:TRUE indexOf size addAll:FALSE toArray toArray remove:FALSE
+1
+ArrayList add:TRUE listIterator listIterator get clear add remove:TRUE indexOf remove:FALSE
+1
+ArrayList add toArray remove:FALSE indexOf remove:TRUE size clear add clear size size remove:FALSE addAll:TRUE indexOf isEmpty:FALSE get add addAll:TRUE add:TRUE clear add listIterator add clear indexOf toArray toArray indexOf size clear addAll:FALSE
+1
+ArrayList iterator clear size indexOf size addAll:TRUE listIterator iterator addAll:TRUE toArray addAll:TRUE add:TRUE get clear listIterator remove:FALSE indexOf clear clear isEmpty:TRUE add isEmpty:FALSE size remove add isEmpty:FALSE add:TRUE size addAll:TRUE remove:TRUE toArray remove:FALSE set addAll:FALSE listIterator iterator set remove:FALSE get get isEmpty:FALSE add:TRUE addAll:FALSE iterator iterator indexOf isEmpty:FALSE size addAll:FALSE
+1
+ArrayList iterator listIterator
+1
+ArrayList iterator toArray iterator add:TRUE set isEmpty:FALSE toArray add:TRUE size listIterator set clear isEmpty:TRUE clear size remove:FALSE toArray isEmpty:TRUE toArray listIterator clear size remove:FALSE
+1
+ArrayList remove:FALSE set size addAll:FALSE indexOf get clear
+1
+ArrayList add remove:TRUE remove:FALSE isEmpty:TRUE toArray addAll:FALSE clear add set listIterator isEmpty:FALSE isEmpty:FALSE remove:TRUE toArray addAll:TRUE remove
+1
+ArrayList remove:FALSE clear size addAll:FALSE addAll:TRUE addAll:FALSE
+1
+ArrayList listIterator size
+1
+ArrayList clear indexOf add:TRUE remove remove:TRUE clear
+1
+ArrayList addAll:FALSE size clear indexOf indexOf isEmpty:TRUE
+1
+ArrayList remove:TRUE isEmpty:FALSE add listIterator addAll:TRUE remove toArray addAll:TRUE set addAll:TRUE set
+1
+ArrayList listIterator clear add:TRUE addAll:FALSE iterator remove addAll:FALSE size remove:FALSE size isEmpty:TRUE addAll:TRUE listIterator addAll:FALSE listIterator indexOf addAll:TRUE remove:TRUE listIterator size toArray remove add:TRUE remove:TRUE add:TRUE indexOf remove remove:TRUE add:TRUE clear addAll:TRUE iterator addAll:TRUE remove:TRUE add
+1
+ArrayList remove:TRUE remove iterator add:TRUE listIterator get remove:FALSE remove size listIterator addAll:TRUE iterator toArray size isEmpty:FALSE addAll:FALSE
+1
+ArrayList remove:FALSE indexOf remove:FALSE addAll:FALSE size clear addAll:TRUE remove:FALSE set indexOf add add:TRUE size
+1
+ArrayList remove:TRUE add:TRUE set add:TRUE remove:TRUE listIterator clear add indexOf addAll:FALSE addAll:TRUE clear add size add remove:TRUE addAll:FALSE indexOf size indexOf listIterator
+1
+ArrayList isEmpty:FALSE remove indexOf clear addAll:TRUE set
+1
+ArrayList size size add:TRUE get size indexOf set clear toArray indexOf add addAll:FALSE
+1
+ArrayList listIterator addAll:TRUE addAll:FALSE get set add:TRUE size isEmpty:FALSE toArray indexOf listIterator remove:FALSE add:TRUE listIterator clear remove:FALSE size isEmpty:TRUE size toArray indexOf indexOf addAll:FALSE add:TRUE remove remove:TRUE remove:TRUE remove:FALSE clear iterator remove:FALSE iterator add:TRUE listIterator remove:TRUE addAll:TRUE isEmpty:FALSE clear add remove:TRUE addAll:TRUE iterator listIterator clear size toArray
+1
+ArrayList addAll:FALSE addAll:TRUE add:TRUE toArray remove listIterator addAll:TRUE set remove:TRUE listIterator add:TRUE indexOf remove remove:FALSE add:TRUE add clear toArray isEmpty:TRUE addAll:TRUE size get listIterator addAll:TRUE size get set remove
+1
+ArrayList addAll:TRUE toArray get add:TRUE add:TRUE listIterator add listIterator set addAll:FALSE toArray remove get remove:TRUE addAll:FALSE add remove:TRUE add clear indexOf add listIterator indexOf set size toArray remove:TRUE remove:FALSE iterator isEmpty:FALSE iterator addAll:TRUE remove:TRUE iterator
+1
+ArrayList addAll:FALSE remove indexOf remove addAll:FALSE size add remove iterator get addAll:FALSE remove remove clear addAll:FALSE isEmpty:TRUE addAll:TRUE
+1
+ArrayList indexOf remove:FALSE size addAll:TRUE remove:FALSE get iterator addAll:FALSE listIterator remove addAll:TRUE set remove add:TRUE
+1
+ArrayList indexOf toArray listIterator addAll:FALSE remove:FALSE
+1
+ArrayList listIterator clear clear remove:FALSE indexOf clear add addAll:TRUE remove remove
+1
+ArrayList clear size addAll:TRUE addAll:FALSE addAll:FALSE listIterator clear clear toArray indexOf isEmpty:TRUE add add isEmpty:FALSE isEmpty:FALSE listIterator add:TRUE indexOf iterator remove add
+1
+ArrayList isEmpty:FALSE get add toArray toArray add:TRUE remove add listIterator remove add:TRUE iterator add remove add:TRUE get toArray addAll:FALSE add:TRUE add:TRUE remove isEmpty:FALSE isEmpty:FALSE get size set listIterator toArray remove:FALSE remove remove:FALSE set remove:FALSE listIterator remove:TRUE listIterator size listIterator isEmpty:FALSE remove:TRUE addAll:TRUE indexOf add clear addAll:FALSE addAll:FALSE addAll:TRUE remove:TRUE set
+1
+ArrayList isEmpty:FALSE remove:TRUE listIterator iterator remove:TRUE
+1
+ArrayList clear add toArray addAll:FALSE remove:TRUE addAll:TRUE remove:TRUE remove:FALSE indexOf remove toArray size
+1
+ArrayList add add add add remove:TRUE set remove:TRUE add listIterator set listIterator addAll:FALSE isEmpty:FALSE remove toArray toArray indexOf isEmpty:TRUE clear remove:FALSE add:TRUE isEmpty:FALSE toArray isEmpty:FALSE set listIterator toArray addAll:FALSE get size
+1
+ArrayList get
+1
+ArrayList size isEmpty:FALSE
+1
+ArrayList size isEmpty:TRUE
+1
+ArrayList size remove
+1
+ArrayList add clear add isEmpty:FALSE listIterator toArray remove listIterator listIterator remove:FALSE isEmpty:FALSE listIterator toArray isEmpty:FALSE add size size add:TRUE set addAll:FALSE addAll:TRUE remove:TRUE iterator addAll:TRUE listIterator size add indexOf isEmpty:FALSE add:TRUE size remove:TRUE indexOf isEmpty:FALSE set
+1
+ArrayList addAll:FALSE add isEmpty:FALSE listIterator remove size remove:FALSE indexOf isEmpty:TRUE remove:FALSE addAll:FALSE listIterator indexOf isEmpty:TRUE add:TRUE listIterator listIterator get addAll:FALSE remove indexOf isEmpty:FALSE get isEmpty:FALSE isEmpty:FALSE clear clear listIterator remove:FALSE indexOf add:TRUE remove:TRUE addAll:TRUE size remove:TRUE remove:TRUE clear addAll:TRUE isEmpty:FALSE remove:FALSE set clear
+1
+ArrayList set remove:FALSE add addAll:FALSE listIterator listIterator remove:TRUE size remove:FALSE indexOf size
+1
+ArrayList listIterator
+1
+ArrayList toArray addAll:FALSE listIterator remove:FALSE add:TRUE iterator isEmpty:FALSE listIterator listIterator get
+1
+ArrayList iterator remove:TRUE addAll:TRUE clear
+1
+ArrayList remove:FALSE indexOf size addAll:TRUE remove:TRUE toArray indexOf add isEmpty:FALSE indexOf remove:FALSE
+1
+ArrayList clear addAll:FALSE add:TRUE listIterator
+1
+ArrayList clear add set addAll:TRUE set addAll:TRUE
+1
+ArrayList toArray listIterator add remove listIterator iterator add clear listIterator addAll:FALSE iterator listIterator remove:FALSE listIterator indexOf clear add add remove:TRUE remove:FALSE isEmpty:TRUE iterator
+1
+ArrayList toArray size listIterator size clear
+1
+ArrayList size toArray listIterator add:TRUE add:TRUE size set iterator listIterator add:TRUE listIterator iterator remove size size indexOf
+1
+ArrayList addAll:TRUE listIterator addAll:TRUE clear iterator
+1
+ArrayList addAll:FALSE set addAll:FALSE add size indexOf toArray get remove add remove:TRUE isEmpty:FALSE listIterator size iterator clear
+1
+ArrayList remove:FALSE listIterator iterator remove:TRUE add:TRUE addAll:TRUE size listIterator addAll:FALSE remove toArray listIterator size addAll:FALSE add remove:TRUE iterator listIterator remove:FALSE remove:TRUE indexOf clear addAll:FALSE add addAll:TRUE toArray get add:TRUE set clear size
+1
+ArrayList add:TRUE
+1
+ArrayList set clear
+1
+ArrayList isEmpty:TRUE listIterator iterator add:TRUE add
+1
+ArrayList isEmpty:TRUE indexOf isEmpty:TRUE
+1
+ArrayList iterator listIterator add:TRUE remove:FALSE remove get iterator isEmpty:FALSE remove
+1
+ArrayList toArray indexOf remove:FALSE addAll:FALSE iterator addAll:TRUE listIterator isEmpty:FALSE remove:TRUE clear add:TRUE add:TRUE remove:FALSE listIterator remove:FALSE remove:FALSE listIterator addAll:FALSE toArray get set add isEmpty:FALSE remove:FALSE add:TRUE remove:TRUE isEmpty:TRUE iterator toArray iterator addAll:FALSE size addAll:FALSE add:TRUE remove iterator isEmpty:FALSE indexOf
+1
+ArrayList add indexOf addAll:FALSE indexOf size indexOf remove set listIterator get get set remove addAll:TRUE toArray iterator size remove:FALSE toArray addAll:FALSE remove:FALSE set remove remove add:TRUE remove size add:TRUE add remove:TRUE add:TRUE size
+1
+ArrayList add remove:TRUE listIterator indexOf indexOf toArray
+1
+ArrayList listIterator clear listIterator listIterator indexOf addAll:TRUE get add:TRUE toArray toArray listIterator remove:FALSE indexOf get remove:TRUE isEmpty:FALSE addAll:FALSE remove add:TRUE clear size listIterator add:TRUE remove addAll:FALSE addAll:FALSE addAll:TRUE toArray isEmpty:FALSE addAll:FALSE remove add:TRUE isEmpty:FALSE remove addAll:FALSE clear indexOf add remove:TRUE clear size clear add:TRUE isEmpty:FALSE isEmpty:FALSE remove:FALSE
+1
+ArrayList listIterator listIterator isEmpty:TRUE remove:FALSE clear add:TRUE add:TRUE add:TRUE listIterator toArray set iterator isEmpty:FALSE remove size size listIterator indexOf clear toArray remove:FALSE isEmpty:TRUE addAll:FALSE addAll:TRUE remove:FALSE toArray clear toArray toArray indexOf size remove:FALSE add indexOf addAll:FALSE remove:FALSE remove indexOf isEmpty:TRUE listIterator isEmpty:TRUE isEmpty:TRUE add addAll:FALSE get addAll:FALSE addAll:FALSE add:TRUE remove
+1
+ArrayList remove:TRUE addAll:TRUE remove:FALSE isEmpty:FALSE remove:TRUE addAll:TRUE clear
+1
+ArrayList indexOf iterator indexOf size isEmpty:TRUE listIterator add:TRUE listIterator add clear addAll:FALSE add:TRUE toArray listIterator listIterator listIterator isEmpty:FALSE get size
+1
+ArrayList add indexOf add indexOf add:TRUE remove:TRUE addAll:TRUE
+1
+ArrayList remove:FALSE clear clear size addAll:TRUE remove:TRUE remove:FALSE add add indexOf add iterator addAll:FALSE indexOf clear addAll:FALSE add indexOf get remove:TRUE size indexOf add:TRUE set remove addAll:FALSE add:TRUE iterator set set addAll:TRUE listIterator remove:FALSE listIterator addAll:TRUE addAll:TRUE add:TRUE remove:FALSE get toArray size remove:FALSE remove:TRUE remove isEmpty:TRUE isEmpty:TRUE size
+1
+ArrayList remove:FALSE remove:FALSE add iterator listIterator listIterator remove indexOf iterator add set
+1
+ArrayList remove:TRUE listIterator addAll:FALSE listIterator iterator remove:FALSE add:TRUE add addAll:FALSE listIterator remove clear addAll:FALSE remove:FALSE iterator size indexOf addAll:TRUE toArray remove:TRUE clear add add set listIterator iterator remove:FALSE remove:FALSE isEmpty:FALSE remove:FALSE addAll:TRUE remove indexOf clear
+1
+ArrayList toArray indexOf add:TRUE listIterator remove get remove:TRUE iterator iterator add addAll:FALSE
+1
+ArrayList remove:FALSE remove:FALSE iterator get listIterator addAll:TRUE listIterator get get iterator listIterator iterator clear indexOf toArray toArray clear
+1
+ArrayList clear addAll:FALSE
+1
+ArrayList add remove size
+1
+ArrayList set addAll:TRUE size addAll:TRUE listIterator
+1
+ArrayList clear remove:FALSE
+1
+ArrayList toArray remove:TRUE isEmpty:TRUE toArray remove:FALSE listIterator size add
+1
+ArrayList set get remove addAll:FALSE indexOf addAll:TRUE addAll:FALSE remove size remove:FALSE add iterator size addAll:TRUE listIterator iterator
+1
+ArrayList add indexOf addAll:TRUE remove:FALSE addAll:FALSE addAll:TRUE addAll:FALSE clear add:TRUE remove:TRUE toArray addAll:FALSE clear addAll:FALSE isEmpty:TRUE iterator isEmpty:TRUE clear size toArray
+1
+ArrayList remove:FALSE isEmpty:TRUE add:TRUE isEmpty:FALSE listIterator toArray iterator remove:FALSE set addAll:FALSE listIterator listIterator remove:TRUE size add:TRUE remove indexOf
+1
+ArrayList toArray addAll:TRUE get size toArray remove remove:FALSE toArray add get add:TRUE addAll:TRUE add:TRUE
+1
+ArrayList addAll:TRUE iterator indexOf
+1
+ArrayList indexOf add set remove
+1
+ArrayList iterator addAll:FALSE add:TRUE toArray remove:TRUE addAll:TRUE addAll:TRUE toArray clear remove:FALSE addAll:FALSE addAll:TRUE addAll:TRUE add:TRUE isEmpty:FALSE remove:TRUE remove toArray remove set remove:TRUE addAll:TRUE remove:TRUE indexOf addAll:FALSE clear isEmpty:TRUE listIterator iterator listIterator listIterator size add get iterator add:TRUE remove
+1
+ArrayList isEmpty:TRUE iterator add:TRUE remove:FALSE remove addAll:TRUE indexOf remove:TRUE remove:TRUE indexOf isEmpty:TRUE addAll:FALSE isEmpty:TRUE add:TRUE
+1
+ArrayList remove:FALSE isEmpty:FALSE isEmpty:FALSE set toArray remove
+1
+ArrayList set remove:TRUE indexOf iterator get addAll:TRUE get add clear listIterator addAll:FALSE
+1
+ArrayList size add listIterator addAll:FALSE addAll:TRUE remove:TRUE addAll:TRUE
+1
+ArrayList listIterator get addAll:FALSE remove:TRUE listIterator remove remove:FALSE size add listIterator get remove:TRUE addAll:FALSE listIterator add
+1
+ArrayList size size clear addAll:TRUE add:TRUE indexOf toArray isEmpty:FALSE listIterator iterator addAll:FALSE remove:TRUE toArray size add remove:TRUE remove remove:TRUE isEmpty:TRUE toArray indexOf indexOf listIterator indexOf clear clear size clear indexOf add:TRUE clear addAll:TRUE add:TRUE remove:TRUE toArray remove:FALSE remove:FALSE listIterator add remove:TRUE listIterator iterator add set addAll:FALSE addAll:TRUE add addAll:TRUE set
+1
+ArrayList size addAll:FALSE add size remove:FALSE isEmpty:FALSE listIterator listIterator isEmpty:FALSE add remove remove:TRUE remove:TRUE toArray toArray listIterator remove:TRUE
+1
+ArrayList remove:FALSE addAll:FALSE set clear listIterator add clear iterator listIterator listIterator size toArray iterator indexOf toArray
+1
+ArrayList listIterator remove:TRUE remove addAll:FALSE iterator isEmpty:TRUE clear listIterator listIterator add add:TRUE addAll:TRUE listIterator size
+1
+ArrayList size iterator addAll:FALSE addAll:TRUE set add remove toArray iterator get listIterator remove:TRUE addAll:FALSE add remove:FALSE get size listIterator remove:TRUE remove:FALSE addAll:FALSE set remove:FALSE listIterator addAll:FALSE remove:TRUE toArray isEmpty:FALSE add:TRUE remove toArray addAll:FALSE addAll:TRUE add indexOf remove remove listIterator remove:FALSE remove:TRUE listIterator clear size add:TRUE remove addAll:TRUE size remove:FALSE indexOf
+1
+ArrayList clear addAll:FALSE isEmpty:TRUE listIterator toArray size size add:TRUE listIterator isEmpty:FALSE indexOf iterator addAll:TRUE clear remove:FALSE toArray size
+1
+ArrayList toArray remove:FALSE add addAll:FALSE listIterator clear
+1
+ArrayList addAll:TRUE toArray toArray remove:TRUE isEmpty:FALSE iterator remove:FALSE isEmpty:FALSE add remove:FALSE remove add remove remove:FALSE iterator clear addAll:FALSE addAll:TRUE addAll:TRUE remove:FALSE get iterator remove:FALSE add get add remove:TRUE iterator addAll:FALSE addAll:TRUE set
+1
+ArrayList remove:FALSE iterator listIterator addAll:FALSE size addAll:TRUE size listIterator clear iterator clear listIterator
+1
+ArrayList indexOf toArray addAll:TRUE toArray remove:FALSE
+1
+ArrayList add remove:TRUE add:TRUE clear iterator size iterator add:TRUE add size addAll:TRUE remove:TRUE addAll:TRUE toArray set indexOf indexOf get addAll:FALSE remove:TRUE addAll:TRUE indexOf remove:FALSE remove:TRUE get clear add:TRUE listIterator remove:FALSE set add:TRUE clear listIterator remove:FALSE iterator add indexOf size
+1
+ArrayList listIterator add remove:TRUE addAll:TRUE clear iterator remove:FALSE addAll:FALSE iterator indexOf isEmpty:TRUE remove:FALSE addAll:TRUE iterator remove iterator add:TRUE indexOf listIterator remove:FALSE add addAll:TRUE indexOf set listIterator set isEmpty:FALSE listIterator size remove toArray toArray remove:TRUE add remove:FALSE iterator toArray isEmpty:FALSE add:TRUE clear isEmpty:TRUE addAll:TRUE remove remove remove:TRUE add:TRUE add:TRUE addAll:TRUE remove:TRUE
+1
+ArrayList listIterator addAll:FALSE remove:FALSE isEmpty:TRUE toArray add:TRUE indexOf size listIterator addAll:TRUE indexOf listIterator get remove:TRUE isEmpty:TRUE toArray iterator isEmpty:TRUE indexOf isEmpty:TRUE add listIterator remove:TRUE get addAll:TRUE toArray indexOf listIterator add:TRUE remove isEmpty:FALSE get addAll:FALSE remove remove:TRUE add indexOf remove addAll:TRUE remove addAll:FALSE add get size iterator addAll:FALSE toArray size toArray
+1
+ArrayList remove:TRUE clear toArray add:TRUE add:TRUE clear remove:FALSE clear clear add get remove:TRUE listIterator listIterator listIterator add clear add:TRUE addAll:FALSE addAll:FALSE iterator get isEmpty:FALSE remove:FALSE iterator add:TRUE isEmpty:FALSE add:TRUE size remove listIterator remove:FALSE size addAll:TRUE set
+1
+ArrayList size iterator add listIterator listIterator remove:TRUE indexOf listIterator
+1
+ArrayList addAll:FALSE indexOf addAll:TRUE listIterator remove:TRUE indexOf isEmpty:FALSE get add iterator remove size remove:FALSE
+1
+ArrayList size addAll:TRUE remove:TRUE set toArray add:TRUE addAll:TRUE add indexOf set remove:TRUE remove remove size iterator addAll:FALSE add:TRUE indexOf remove:FALSE size set
+1
+ArrayList clear addAll:FALSE addAll:TRUE indexOf add:TRUE addAll:FALSE listIterator toArray
+1
+ArrayList isEmpty:TRUE listIterator remove:FALSE addAll:TRUE set remove:TRUE remove:TRUE iterator listIterator indexOf set indexOf add
+1
+ArrayList remove clear toArray toArray remove:FALSE listIterator indexOf addAll:TRUE size indexOf remove:TRUE clear addAll:FALSE addAll:TRUE remove:TRUE listIterator remove:TRUE listIterator iterator remove:FALSE addAll:TRUE addAll:FALSE get get listIterator remove:TRUE clear indexOf toArray indexOf clear
+1
+ArrayList addAll:FALSE add iterator remove iterator
+1
+ArrayList listIterator indexOf clear indexOf add:TRUE remove remove listIterator add:TRUE add remove:FALSE remove size remove:FALSE add:TRUE size remove remove:FALSE listIterator clear indexOf
+1
+ArrayList listIterator get indexOf remove toArray set remove indexOf remove:FALSE remove:FALSE add:TRUE addAll:FALSE
+1
+ArrayList addAll:TRUE clear iterator addAll:FALSE addAll:FALSE size clear clear
+1
+ArrayList remove:TRUE add add:TRUE remove:TRUE remove:TRUE toArray set remove:TRUE toArray listIterator remove add listIterator
+1
+ArrayList set indexOf clear listIterator remove:FALSE isEmpty:TRUE clear add listIterator indexOf set add isEmpty:FALSE clear size add:TRUE iterator get remove:TRUE iterator listIterator listIterator clear remove:FALSE add:TRUE remove remove:TRUE add:TRUE remove listIterator add:TRUE indexOf set add toArray set toArray toArray remove:FALSE remove addAll:FALSE addAll:FALSE clear indexOf toArray iterator toArray remove:FALSE addAll:TRUE
+1
+ArrayList listIterator indexOf clear addAll:FALSE add:TRUE remove:FALSE remove:FALSE
+1
+ArrayList listIterator clear toArray toArray add indexOf add:TRUE add iterator listIterator listIterator listIterator listIterator remove:TRUE clear iterator add remove:TRUE add:TRUE remove:TRUE add isEmpty:FALSE remove:TRUE remove:FALSE
+1
+ArrayList remove toArray add:TRUE remove:FALSE remove:TRUE addAll:TRUE remove:TRUE add:TRUE get remove remove:FALSE iterator listIterator indexOf add addAll:FALSE addAll:TRUE get listIterator indexOf add:TRUE remove:FALSE remove:TRUE isEmpty:TRUE addAll:FALSE size remove:FALSE addAll:TRUE size get remove:FALSE set toArray remove:TRUE size addAll:TRUE toArray
+1
+ArrayList add:TRUE remove remove:TRUE
+1
+ArrayList iterator isEmpty:FALSE remove:TRUE iterator addAll:FALSE indexOf clear add remove:FALSE indexOf remove:FALSE listIterator addAll:TRUE
+1
+ArrayList size indexOf remove remove:FALSE isEmpty:TRUE add remove addAll:TRUE remove:FALSE set iterator listIterator add toArray remove remove toArray iterator add:TRUE addAll:FALSE add listIterator set remove set remove:TRUE
+1
+ArrayList iterator indexOf size addAll:FALSE addAll:TRUE remove:FALSE isEmpty:FALSE remove remove:FALSE size size toArray indexOf toArray toArray iterator size indexOf remove:TRUE size remove indexOf listIterator listIterator
+1
+ArrayList indexOf
+1
+ArrayList add:TRUE remove toArray add:TRUE isEmpty:FALSE addAll:FALSE iterator remove:TRUE add isEmpty:FALSE add remove addAll:FALSE indexOf add set add addAll:FALSE addAll:FALSE remove:TRUE indexOf iterator toArray add remove:TRUE listIterator add:TRUE size get addAll:FALSE size clear indexOf indexOf indexOf add:TRUE addAll:TRUE listIterator listIterator get set get size add:TRUE remove:TRUE remove addAll:TRUE get isEmpty:FALSE
+1
+ArrayList toArray add remove remove:FALSE addAll:FALSE addAll:TRUE iterator isEmpty:FALSE
+1
+ArrayList isEmpty:TRUE remove:FALSE
+1
+ArrayList size remove:TRUE add toArray remove:TRUE
+1
+ArrayList get add:TRUE get addAll:FALSE isEmpty:FALSE toArray remove:TRUE remove:TRUE remove:TRUE addAll:FALSE remove:FALSE listIterator indexOf iterator isEmpty:TRUE listIterator remove:FALSE remove:FALSE indexOf iterator addAll:FALSE addAll:TRUE isEmpty:FALSE remove:TRUE clear isEmpty:TRUE addAll:FALSE
+1
+ArrayList isEmpty:FALSE remove:TRUE iterator set remove remove:TRUE isEmpty:FALSE isEmpty:FALSE isEmpty:FALSE clear isEmpty:TRUE size size isEmpty:TRUE add get indexOf isEmpty:FALSE add size
+1
+ArrayList isEmpty:TRUE addAll:TRUE iterator remove remove:TRUE addAll:FALSE add:TRUE add listIterator listIterator remove remove get add
+1
+ArrayList remove:FALSE listIterator set indexOf size get add:TRUE listIterator remove iterator size get addAll:TRUE add:TRUE toArray add:TRUE indexOf remove isEmpty:TRUE addAll:TRUE indexOf indexOf remove get listIterator listIterator remove listIterator remove:TRUE size toArray iterator iterator addAll:FALSE remove size remove:FALSE toArray indexOf iterator add addAll:FALSE
+1
+ArrayList isEmpty:TRUE addAll:TRUE set set indexOf remove:TRUE set addAll:FALSE listIterator set set remove remove:FALSE size addAll:TRUE remove:FALSE indexOf iterator listIterator toArray iterator remove remove indexOf indexOf clear
+1
+ArrayList size
+1
+ArrayList add:TRUE remove:TRUE addAll:TRUE add:TRUE add:TRUE get size remove add size remove:FALSE listIterator indexOf add remove:FALSE get size remove get clear isEmpty:TRUE iterator remove:FALSE
+1
+ArrayList remove size iterator indexOf iterator listIterator iterator add:TRUE iterator toArray isEmpty:FALSE remove:TRUE size size listIterator clear size iterator toArray clear isEmpty:TRUE add remove:FALSE add:TRUE remove remove:FALSE remove:FALSE add:TRUE size indexOf indexOf remove:FALSE get get remove:TRUE listIterator clear clear
+1
+ArrayList size indexOf iterator listIterator listIterator
+1
+ArrayList indexOf addAll:TRUE indexOf remove:TRUE add:TRUE set get remove:FALSE addAll:TRUE addAll:TRUE size add:TRUE remove:TRUE remove:FALSE toArray add:TRUE get indexOf remove:FALSE iterator isEmpty:FALSE remove add listIterator get listIterator remove:FALSE remove
+1
+ArrayList indexOf iterator listIterator remove:TRUE listIterator remove:TRUE indexOf toArray size listIterator toArray get listIterator remove toArray add:TRUE remove:TRUE isEmpty:TRUE addAll:FALSE isEmpty:TRUE size addAll:TRUE set listIterator remove:TRUE add:TRUE remove:FALSE remove:TRUE add remove get add:TRUE set indexOf isEmpty:FALSE clear add indexOf clear isEmpty:TRUE indexOf size add clear addAll:FALSE addAll:TRUE size addAll:FALSE add:TRUE
+1
+ArrayList remove:FALSE addAll:TRUE remove:FALSE remove
+1
+ArrayList add:TRUE addAll:TRUE iterator addAll:TRUE remove:TRUE toArray iterator size listIterator listIterator
+1
+ArrayList listIterator clear clear add:TRUE remove remove:FALSE indexOf get addAll:FALSE addAll:FALSE clear listIterator remove:FALSE remove:FALSE addAll:TRUE toArray remove remove:FALSE isEmpty:TRUE iterator
+1
+ArrayList clear addAll:FALSE isEmpty:TRUE addAll:FALSE indexOf add
+1
+ArrayList set size remove add:TRUE toArray toArray size remove:TRUE size toArray clear remove:FALSE
+1
+ArrayList isEmpty:FALSE add
+1
+ArrayList iterator add remove:TRUE addAll:TRUE size iterator iterator set listIterator addAll:TRUE isEmpty:FALSE addAll:TRUE addAll:TRUE get indexOf remove addAll:FALSE toArray indexOf indexOf listIterator add:TRUE addAll:TRUE remove:FALSE size iterator remove remove:TRUE indexOf clear add get addAll:FALSE isEmpty:FALSE iterator clear add:TRUE remove:TRUE clear indexOf toArray isEmpty:TRUE remove:FALSE clear addAll:FALSE size addAll:FALSE listIterator listIterator
+1
+ArrayList listIterator isEmpty:TRUE indexOf addAll:TRUE listIterator iterator indexOf
+1
+ArrayList clear iterator indexOf indexOf addAll:FALSE add size
+1
+ArrayList add addAll:TRUE toArray remove addAll:FALSE iterator remove:FALSE
+1
+ArrayList add listIterator toArray listIterator size get clear size addAll:TRUE isEmpty:FALSE set isEmpty:FALSE set set clear toArray clear clear iterator clear size isEmpty:TRUE iterator size remove:FALSE addAll:FALSE addAll:FALSE indexOf
+1
+ArrayList indexOf size iterator clear toArray addAll:TRUE remove:TRUE indexOf add indexOf add:TRUE indexOf remove:TRUE clear add:TRUE remove:FALSE add toArray listIterator clear addAll:TRUE iterator remove:FALSE clear add listIterator remove add remove:TRUE remove:TRUE size listIterator add:TRUE add:TRUE get toArray get add:TRUE
+1
+ArrayList indexOf size isEmpty:TRUE iterator remove:FALSE isEmpty:TRUE indexOf indexOf toArray toArray isEmpty:TRUE add size remove:FALSE add listIterator addAll:FALSE addAll:FALSE listIterator set add:TRUE indexOf listIterator remove:FALSE clear
+1
+ArrayList remove toArray clear indexOf iterator iterator
+1
+ArrayList iterator listIterator remove:FALSE addAll:FALSE listIterator listIterator remove addAll:FALSE addAll:FALSE add remove indexOf remove add toArray isEmpty:FALSE
+1
+ArrayList add size toArray listIterator size addAll:FALSE clear indexOf addAll:FALSE addAll:TRUE clear
+1
+ArrayList toArray get add:TRUE indexOf isEmpty:FALSE addAll:FALSE addAll:TRUE remove:TRUE add:TRUE remove:TRUE add:TRUE get
+1
+ArrayList add remove remove:TRUE toArray toArray addAll:TRUE toArray isEmpty:FALSE remove:TRUE addAll:FALSE isEmpty:TRUE addAll:TRUE remove indexOf
+1
+ArrayList add:TRUE remove:TRUE addAll:FALSE
+1
+ArrayList add:TRUE addAll:FALSE remove:TRUE add listIterator remove:TRUE toArray add:TRUE iterator size toArray get add:TRUE set add set iterator
+1
+ArrayList remove:FALSE isEmpty:FALSE remove toArray isEmpty:TRUE indexOf add:TRUE isEmpty:FALSE clear toArray addAll:FALSE clear addAll:TRUE remove:TRUE addAll:TRUE remove:TRUE toArray addAll:TRUE get size set addAll:FALSE add:TRUE toArray listIterator clear isEmpty:TRUE
+1
+ArrayList iterator addAll:TRUE remove:TRUE iterator addAll:FALSE addAll:FALSE size size remove:FALSE size iterator clear
+1
+ArrayList remove:TRUE addAll:FALSE iterator isEmpty:TRUE add set add:TRUE addAll:FALSE set add:TRUE toArray addAll:TRUE add remove size size add:TRUE remove add:TRUE listIterator indexOf get clear
+1
+ArrayList addAll:FALSE addAll:TRUE clear toArray clear isEmpty:TRUE addAll:TRUE add remove add:TRUE set remove:FALSE add addAll:FALSE listIterator remove:TRUE
+1
+ArrayList listIterator iterator indexOf toArray remove:FALSE addAll:FALSE indexOf isEmpty:TRUE iterator addAll:FALSE iterator clear remove:FALSE indexOf listIterator iterator clear add:TRUE remove add:TRUE addAll:FALSE listIterator listIterator toArray toArray get remove:FALSE indexOf iterator listIterator
+1
+ArrayList size iterator toArray listIterator clear toArray indexOf iterator iterator indexOf remove:FALSE iterator listIterator listIterator addAll:TRUE size remove isEmpty:TRUE remove:FALSE addAll:TRUE clear clear add:TRUE indexOf clear size
+1
+ArrayList isEmpty:FALSE addAll:FALSE add:TRUE get add isEmpty:FALSE add listIterator add remove iterator toArray
+1
+ArrayList add
+1
+ArrayList listIterator remove isEmpty:FALSE
+1
+ArrayList toArray addAll:FALSE
+1
+ArrayList indexOf addAll:TRUE
+1
+ArrayList addAll:TRUE iterator iterator remove indexOf addAll:FALSE add:TRUE add remove remove:FALSE iterator iterator addAll:TRUE
+1
+ArrayList iterator size indexOf add toArray
